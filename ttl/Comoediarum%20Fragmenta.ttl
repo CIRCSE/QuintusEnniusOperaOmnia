@@ -1,0 +1,491 @@
+@prefix UD_tag: <https://universaldependencies.org/u/dep/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix lila: <http://lila-erc.eu/data/corpora/> .
+@prefix lilaIpoLemma: <http://lila-erc.eu/data/id/hypolemma/> .
+@prefix lilaLemma: <http://lila-erc.eu/data/id/lemma/> .
+@prefix lilaOntology: <http://lila-erc.eu/ontologies/lila/> .
+@prefix lila_authors: <http://lila-erc.eu/data/corpora/id/authors/> .
+@prefix lila_corpus: <http://lila-erc.eu/ontologies/lila_corpora/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix powla: <http://purl.org/powla/powla.owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta>
+  a powla:Document;
+  dc:contributor "Federica Iurescia, Giovanni Moretti, Paolo Ruffolo, Marco Passarotti";
+  dc:description "Fragments from the following comedies: Caupuncula, Pancratiastes";
+  dc:title "Comoediarum Fragmenta";
+  <http://purl.org/dc/terms/creator> <http://lila-erc.eu/data/authors/id/a174> .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus> powla:hasSubDocument
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta> .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>
+  a powla:DocumentLayer;
+  dc:description "Comoediarum Fragmenta Document Layer";
+  dc:title "Document Layer";
+  powla:hasDocument <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta> .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure>
+  a lila_corpus:CitationStructure;
+  lila_corpus:first <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula>;
+  lila_corpus:isLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes>;
+  lila_corpus:last <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes>;
+  dc:description "Comoediarum Fragmenta Citation Layer";
+  dc:title "Citation Layer";
+  powla:hasDocument <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta> .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula>
+  a lila_corpus:citationUnit;
+  lila_corpus:first <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula/Fr.%20647>;
+  lila_corpus:hasCitLevel "1"^^xsd:int;
+  lila_corpus:hasCitSubUnit <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula/Fr.%20647>;
+  lila_corpus:hasRefType "Caupuncula";
+  lila_corpus:hasRefValue "Caupuncula";
+  lila_corpus:last <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula/Fr.%20647>;
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes>;
+  rdfs:label "Caupuncula" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula/Fr.%20647>
+  a lila_corpus:citationUnit;
+  lila_corpus:first <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula/Fr.%20647/V.%2001>;
+  lila_corpus:hasCitLevel "2"^^xsd:int;
+  lila_corpus:hasCitSubUnit <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula/Fr.%20647/V.%2001>;
+  lila_corpus:hasRefType "Fr. 647";
+  lila_corpus:hasRefValue "Fr. 647";
+  lila_corpus:last <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula/Fr.%20647/V.%2001>;
+  rdfs:label "Fr. 647" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula/Fr.%20647/V.%2001>
+  a lila_corpus:citationUnit;
+  lila_corpus:first <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula/Fr.%20647/V.%2001/s1t1>;
+  lila_corpus:hasCitLevel "3"^^xsd:int;
+  lila_corpus:hasRefType "V. 01";
+  lila_corpus:hasRefValue "V. 01";
+  lila_corpus:last <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula/Fr.%20647/V.%2001/s1t4>;
+  powla:hasChild <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula/Fr.%20647/V.%2001/s1t1>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula/Fr.%20647/V.%2001/s1t2>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula/Fr.%20647/V.%2001/s1t3>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula/Fr.%20647/V.%2001/s1t4>;
+  rdfs:label "V. 01" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula/Fr.%20647/V.%2001/s1t1>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:105455;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "huic";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula/Fr.%20647/V.%2001/s1t2>;
+  rdfs:label "huic" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula/Fr.%20647/V.%2001/s1t2>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:126689;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "est";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula/Fr.%20647/V.%2001/s1t3>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula/Fr.%20647/V.%2001/s1t1>;
+  rdfs:label "est" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula/Fr.%20647/V.%2001/s1t3>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:89094;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "animus";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula/Fr.%20647/V.%2001/s1t4>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula/Fr.%20647/V.%2001/s1t2>;
+  rdfs:label "animus" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula/Fr.%20647/V.%2001/s1t4>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:119960;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "propitiabilis";
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula/Fr.%20647/V.%2001/s1t3>;
+  rdfs:label "propitiabilis" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes>
+  a lila_corpus:citationUnit;
+  lila_corpus:first <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648>;
+  lila_corpus:hasCitLevel "1"^^xsd:int;
+  lila_corpus:hasCitSubUnit <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648>;
+  lila_corpus:hasRefType "Pancratiastes";
+  lila_corpus:hasCitSubUnit <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649>;
+  lila_corpus:hasRefValue "Pancratiastes";
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Caupuncula>;
+  rdfs:label "Pancratiastes" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648>
+  a lila_corpus:citationUnit;
+  lila_corpus:first <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001>;
+  lila_corpus:hasCitLevel "2"^^xsd:int;
+  lila_corpus:hasCitSubUnit <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001>;
+  lila_corpus:hasRefType "Fr. 648";
+  lila_corpus:hasRefValue "Fr. 648";
+  lila_corpus:last <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001>;
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649>;
+  rdfs:label "Fr. 648" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001>
+  a lila_corpus:citationUnit;
+  lila_corpus:first <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s2t1>;
+  lila_corpus:hasCitLevel "3"^^xsd:int;
+  lila_corpus:hasRefType "V. 01";
+  lila_corpus:hasRefValue "V. 01";
+  lila_corpus:last <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s3t5>;
+  powla:hasChild <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s2t1>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s2t2>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s2t3>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s2t4>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s2t5>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s3t1>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s3t2>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s3t3>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s3t4>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s3t5>;
+  rdfs:label "V. 01" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s2t1>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:121165;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "Quo";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s2t2>;
+  rdfs:label "Quo" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s2t2>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:113990;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "nunc";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s2t3>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s2t1>;
+  rdfs:label "nunc" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s2t3>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:100712;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "me";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s2t4>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s2t2>;
+  rdfs:label "me" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s2t4>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:100196;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "ducis";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s2t5>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s2t3>;
+  rdfs:label "ducis" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s2t5>
+  a powla:Terminal;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "?";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s3t1>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s2t4>;
+  rdfs:label "?" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s3t1>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:129639;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "Ubi";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s3t2>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s2t5>;
+  rdfs:label "Ubi" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s3t2>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:112566;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "molarum";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s3t3>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s3t1>;
+  rdfs:label "molarum" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s3t3>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:127474;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "strepitum";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s3t4>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s3t2>;
+  rdfs:label "strepitum" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s3t4>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:90641;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "audibis";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s3t5>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s3t3>;
+  rdfs:label "audibis" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s3t5>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:111753;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "maximum";
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648/V.%2001/s3t4>;
+  rdfs:label "maximum" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649>
+  a lila_corpus:citationUnit;
+  lila_corpus:first <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001>;
+  lila_corpus:hasCitLevel "2"^^xsd:int;
+  lila_corpus:hasCitSubUnit <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2002>;
+  lila_corpus:hasRefType "Fr. 649";
+  lila_corpus:hasRefValue "Fr. 649";
+  lila_corpus:last <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2002>;
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20648>;
+  rdfs:label "Fr. 649" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001>
+  a lila_corpus:citationUnit;
+  lila_corpus:first <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t1>;
+  lila_corpus:hasCitLevel "3"^^xsd:int;
+  lila_corpus:hasRefType "V. 01";
+  lila_corpus:hasRefValue "V. 01";
+  lila_corpus:last <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t7>;
+  powla:hasChild <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t1>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t2>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t3>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t4>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t5>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t6>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t7>;
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2002>;
+  rdfs:label "V. 01" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t1>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:121165;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "Quis";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t2>;
+  rdfs:label "Quis" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t2>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:126689;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "est";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t3>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t1>;
+  rdfs:label "est" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t3>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:121354;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "qui";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t4>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t2>;
+  rdfs:label "qui" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t4>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:113882;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "nostris";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t5>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t3>;
+  rdfs:label "nostris" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t5>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:103628;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "foribus";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t6>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t4>;
+  rdfs:label "foribus" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t6>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:127600;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "tam";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t7>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t5>;
+  rdfs:label "tam" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t7>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:120145;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "proterviter";
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001/s4t6>;
+  rdfs:label "proterviter" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2002>
+  a lila_corpus:citationUnit;
+  lila_corpus:first <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2002/s4t8>;
+  lila_corpus:hasCitLevel "3"^^xsd:int;
+  lila_corpus:hasRefType "V. 02";
+  lila_corpus:hasRefValue "V. 02";
+  lila_corpus:last <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2002/s4t10>;
+  powla:hasChild <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2002/s4t10>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2002/s4t8>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2002/s4t9>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2001>;
+  rdfs:label "V. 02" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2002/s4t8>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:102758;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "<facit";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2002/s4t9>;
+  rdfs:label "<facit" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2002/s4t9>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:107914;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "iniuriam>";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2002/s4t10>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2002/s4t8>;
+  rdfs:label "iniuriam>" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2002/s4t10>
+  a powla:Terminal;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "?";
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649/V.%2002/s4t9>;
+  rdfs:label "?" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650>
+  a lila_corpus:citationUnit;
+  lila_corpus:first <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001>;
+  lila_corpus:hasCitLevel "2"^^xsd:int;
+  lila_corpus:hasCitSubUnit <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001>;
+  lila_corpus:hasRefType "Fr. 650";
+  lila_corpus:hasRefValue "Fr. 650";
+  lila_corpus:last <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20649>;
+  rdfs:label "Fr. 650" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes>
+  lila_corpus:hasCitSubUnit <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650>;
+  lila_corpus:last <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650> .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001>
+  a lila_corpus:citationUnit;
+  lila_corpus:first <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t1>;
+  lila_corpus:hasCitLevel "3"^^xsd:int;
+  lila_corpus:hasRefType "V. 01";
+  lila_corpus:hasRefValue "V. 01";
+  lila_corpus:last <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t10>;
+  powla:hasChild <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t1>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t10>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t2>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t3>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t4>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t5>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t6-7>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t8>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t9>;
+  rdfs:label "V. 01" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t1>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:97202;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "cum";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t2>;
+  rdfs:label "cum" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t2>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:98979;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "desubito";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t3>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t1>;
+  rdfs:label "desubito" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t3>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:100712;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "me";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t4>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t2>;
+  rdfs:label "me" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t4>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:115286;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "orat";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t5>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t3>;
+  rdfs:label "orat" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t5>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:112890;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "mulier";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t6-7>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t4>;
+  rdfs:label "mulier" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t6-7>
+  a powla:Terminal;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "lacrimansque";
+  powla:hasSubTerminal <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t6-7/s5t6>,
+    <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t6-7/s5t7>;
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t8>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t5>;
+  rdfs:label "lacrimansque" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t6-7/s5t6>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:109675;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "lacrimans";
+  rdfs:label "lacrimans" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t6-7/s5t7>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:131416;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "que";
+  rdfs:label "que" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t8>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:87344;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "ad";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t9>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t6-7>;
+  rdfs:label "ad" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t9>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:104500;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "genua";
+  powla:next <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t10>;
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t8>;
+  rdfs:label "genua" .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t10>
+  a powla:Terminal;
+  lilaOntology:hasLemma lilaLemma:87112;
+  powla:hasLayer <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/DocumentLayer>;
+  powla:hasStringValue "accidit";
+  powla:previous <http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus/Comoediarum%20Fragmenta/CiteStructure/Pancratiastes/Fr.%20650/V.%2001/s5t9>;
+  rdfs:label "accidit" .

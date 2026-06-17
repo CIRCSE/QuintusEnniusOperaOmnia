@@ -1,0 +1,13 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix powla: <http://purl.org/powla/powla.owl#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus> a powla:Corpus, owl:NamedIndividual;
+  dc:title "Quintus Ennius Opera Omnia";
+  <http://purl.org/dc/terms/contributor> "Federica Iurescia, Giovanni Moretti, Paolo Ruffolo, Marco Passarotti";
+  <http://purl.org/dc/terms/creator> <http://www.wikidata.org/entity/Q89883181>;
+  <http://purl.org/dc/terms/description> "Corpus collecting the opera omnia of Quintus Ennius";
+  <http://purl.org/dc/terms/license> <http://www.wikidata.org/entity/Q42553662>;
+  <http://purl.org/dc/terms/publisher> <http://www.wikidata.org/entity/Q89883181>;
+  rdfs:seeAlso <https://opac.unicatt.it:883/search*ita?/Ypassarotti&SORT=D/Ypassarotti&SORT=D&SUBKEY=passarotti/1%2C2%2C2%2CB/frameset&FF=Ypassarotti&SORT=D&1%2C1%2C> .

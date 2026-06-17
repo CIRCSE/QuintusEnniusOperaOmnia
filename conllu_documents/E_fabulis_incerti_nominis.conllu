@@ -1,0 +1,454 @@
+# docId=fabulisIncerti
+# docTitle=E fabulis incerti nominis
+# contributor=Federica Iurescia, Giovanni Moretti, Paolo Ruffolo, Marco Passarotti
+# corpusRef=http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus
+# docAuthor=http://lila-erc.eu/data/authors/id/a174
+# description=Fragments from works of uncertain title
+
+1	P[h]ilosop[h]ari	philosophari	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 651, V. 01	http://lila-erc.eu/data/id/lemma/117665
+2	est	sum	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 651, V. 01	http://lila-erc.eu/data/id/lemma/126689
+3	mihi	ego	PRON	_	Case=Dat|Number=Sing	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 651, V. 01	http://lila-erc.eu/data/id/lemma/100712
+4	necesse	necesse	ADV	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 651, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/113513
+5	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 651, V. 01	_
+6	paucis	paucus	DET	_	Case=Abl|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 651, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/116271
+7	;	;	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 651, V. 01	_
+8	nam	nam	ADV	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 651, V. 01	http://lila-erc.eu/data/id/lemma/113344
+9	omnino	omnis	DET	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 651, V. 01	http://lila-erc.eu/data/id/lemma/114954
+10	haud	haud	PART	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 651, V. 01	http://lila-erc.eu/data/id/lemma/105206
+11	placet	placeo	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 651, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/118010
+12	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 651, V. 01	_
+
+1	Omnes	omnis	DET	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 652, V. 01	http://lila-erc.eu/data/id/lemma/114954
+2	dant	do	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 652, V. 01	http://lila-erc.eu/data/id/lemma/99970
+3	consilium	consilium	NOUN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 652, V. 01	http://lila-erc.eu/data/id/lemma/96060
+4	vanum	vanus	ADJ	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 652, V. 01	http://lila-erc.eu/data/id/lemma/129550
+5	atque	atque	CCONJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 652, V. 01	http://lila-erc.eu/data/id/lemma/90490
+6	ad	ad	ADP	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 652, V. 01	http://lila-erc.eu/data/id/lemma/87344
+7	voluptatem	voluptas	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 652, V. 01	http://lila-erc.eu/data/id/lemma/130771
+8	omnia	omnis	DET	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 652, V. 01	http://lila-erc.eu/data/id/lemma/114954
+
+1	Pervince	pervinco	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 653, V. 01	http://lila-erc.eu/data/id/lemma/117478
+2	pertinaci	pertinax	ADJ	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 653, V. 01	http://lila-erc.eu/data/id/lemma/117403
+3	pervicacia	pervicacia	NOUN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 653, V. 01	http://lila-erc.eu/data/id/lemma/117465
+
+1	caeli	caelum/us	NOUN	_	Case=Gen|Number=Sing	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 654, V. 01	http://lila-erc.eu/data/id/lemma/92231
+2	ingentes	ingens	ADJ	_	Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 654, V. 01	http://lila-erc.eu/data/id/lemma/107799
+3	fornices	fornix	NOUN	_	Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 654, V. 01	http://lila-erc.eu/data/id/lemma/103679
+
+1	Crassa	crassus	ADJ	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 655, V. 01	http://lila-erc.eu/data/id/lemma/96841
+2	pulvis	pulvis	NOUN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 655, V. 01	http://lila-erc.eu/data/id/lemma/120499
+3	oritur	orior	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 655, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/115264
+4	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 655, V. 01	_
+5	omnem	omnis	DET	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 655, V. 01	http://lila-erc.eu/data/id/lemma/114954
+6	pervolat	pervolo,are	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 655, V. 01	http://lila-erc.eu/data/id/lemma/117489
+7	caeli	caelum/us	NOUN	_	Case=Gen|Number=Sing	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 655, V. 01	http://lila-erc.eu/data/id/lemma/92231
+8	fretum	fretum	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 655, V. 01	http://lila-erc.eu/data/id/lemma/103788
+
+1	labat	labo	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 656, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/109641
+2	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 656, V. 01	_
+3	labuntur	labor,eris	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 656, V. 01	http://lila-erc.eu/data/id/lemma/109620
+4	saxa	saxum	NOUN	_	Case=Nom|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 656, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/123551
+5	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 656, V. 01	_
+6	caementae	caementa	NOUN	_	Case=Nom|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 656, V. 01	http://lila-erc.eu/data/id/lemma/92246
+7	cadunt	cado	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 656, V. 01	http://lila-erc.eu/data/id/lemma/92179
+
+1	ager	ager,agri	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 657, V. 01	http://lila-erc.eu/data/id/lemma/88060
+2	oppletur	oppleo	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 657, V. 01	http://lila-erc.eu/data/id/lemma/115122
+3	imbrium	imber	NOUN	_	Case=Gen|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 657, V. 01	http://lila-erc.eu/data/id/lemma/106330
+4	fremitu	fremitus,us	NOUN	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 657, V. 02	http://lila-erc.eu/data/id/lemma/104178
+
+1	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 658, V. 01	http://lila-erc.eu/data/id/lemma/101542
+2	quis	quis(interrogans)	PRON	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 658, V. 01	http://lila-erc.eu/data/id/lemma/121165
+3	illaec	illic	DET	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 658, V. 01	http://lila-erc.eu/data/id/lemma/106221
+4	est	sum	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 658, V. 01	http://lila-erc.eu/data/id/lemma/126689
+5	quae	qui	PRON	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 658, V. 01	http://lila-erc.eu/data/id/lemma/121354
+6	lugubri	lugubris	ADJ	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 658, V. 01	http://lila-erc.eu/data/id/lemma/110946
+7	succincta	succinctus	ADJ	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 658, V. 02	http://lila-erc.eu/data/id/hypolemma/42825
+8	est	sum	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 658, V. 02	http://lila-erc.eu/data/id/lemma/126689
+9	stola	stola	NOUN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 658, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/125744
+10	?	?	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 658, V. 02	_
+
+1	O	oh	INTJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 659, V. 01	http://lila-erc.eu/data/id/lemma/114172
+2	terra	terra	NOUN	_	Case=Voc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 659, V. 01	http://lila-erc.eu/data/id/lemma/127912
+3	T[h]raeca	Thracia	PROPN	_	Case=Voc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 659, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/23540
+4	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 659, V. 01	_
+5	ubi	ubi	ADV	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 659, V. 01	http://lila-erc.eu/data/id/lemma/129639
+6	Liberi	Liber	PROPN	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 659, V. 01	http://lila-erc.eu/data/id/lemma/11900
+7	fanum	fanum	NOUN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 659, V. 01	http://lila-erc.eu/data/id/lemma/102911
+8	inclutum	inclytus	ADJ	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 659, V. 01	http://lila-erc.eu/data/id/lemma/107008
+9	Maro	Maro	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 659, V. 02	http://lila-erc.eu/data/id/lemma/13516
+10	locavit	loco	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 659, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/110720
+11	...	...	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 659, V. 02|SpaceAfter=No	_
+12	!	!	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 659, V. 02	_
+
+1	Eos	is	DET	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 660, V. 01	http://lila-erc.eu/data/id/lemma/109083
+2	reduci	reduco	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 660, V. 01	http://lila-erc.eu/data/id/lemma/122481
+3	quam	qua	_	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 660, V. 01	http://lila-erc.eu/data/id/Hypolemma/110471
+4	relinqui	relinquo	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 660, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/122569
+5	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 660, V. 01	_
+6	devehi	deveho	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 660, V. 01	http://lila-erc.eu/data/id/lemma/99071
+7	quam	qua	_	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 660, V. 01	http://lila-erc.eu/data/id/Hypolemma/110471
+8	deseri	desero	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 660, V. 01	http://lila-erc.eu/data/id/lemma/98882
+9	malui	malo	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 660, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/111408
+10	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 660, V. 02	_
+
+1	Animus	animus	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 661, V. 01	http://lila-erc.eu/data/id/lemma/89094
+2	aeger	aeger	ADJ	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 661, V. 01	http://lila-erc.eu/data/id/lemma/87761
+3	semper	semper	ADV	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 661, V. 01	http://lila-erc.eu/data/id/lemma/124294
+4	errat	erro	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 661, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/101465
+5	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 661, V. 01	_
+6	neque	nec	CCONJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 661, V. 01	http://lila-erc.eu/data/id/lemma/113512
+7	pati	pati	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 661, V. 01	http://lila-erc.eu/data/id/lemma/116222
+8	neque	nec	CCONJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 661, V. 01	http://lila-erc.eu/data/id/lemma/113512
+9	perpeti	perpeti	ADJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 661, V. 01	http://lila-erc.eu/data/id/lemma/117190
+10	potis	potis	ADJ	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 661, V. 02	http://lila-erc.eu/data/id/lemma/118664
+11	est	sum	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 661, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/126689
+12	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 661, V. 02	_
+13	cupere	cupere	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 661, V. 02	http://lila-erc.eu/data/id/lemma/97287
+14	numquam	numquam	ADV	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 661, V. 02	http://lila-erc.eu/data/id/lemma/114084
+15	desinit	desino	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 661, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/98910
+16	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 661, V. 02	_
+
+1	Flagiti	flagitium	NOUN	_	Case=Gen|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 662, V. 01	http://lila-erc.eu/data/id/lemma/103382
+2	principium	principium	NOUN	_	Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 662, V. 01	http://lila-erc.eu/data/id/lemma/119505
+3	est	sum	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 662, V. 01	http://lila-erc.eu/data/id/lemma/126689
+4	nudare	nudare	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 662, V. 01	http://lila-erc.eu/data/id/lemma/113944
+5	inter	inter	ADP	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 662, V. 01	http://lila-erc.eu/data/id/lemma/108392
+6	civis	civis	NOUN	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 662, V. 01	http://lila-erc.eu/data/id/lemma/94399
+7	corpora	corpus	NOUN	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 662, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/96667
+8	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 662, V. 01	_
+
+1	Quin	quin	SCONJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 663, V. 01	http://lila-erc.eu/data/id/lemma/121182
+2	inde	inde	ADV	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 663, V. 01	http://lila-erc.eu/data/id/lemma/107259
+3	invitis	invitus	ADJ	_	Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 663, V. 01	http://lila-erc.eu/data/id/lemma/108873
+4	sumpserunt	sumo	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 663, V. 01	http://lila-erc.eu/data/id/lemma/126707
+5	perduellibus	perduellis	NOUN	_	Case=Abl|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 663, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/116754
+6	...	...	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 663, V. 01	_
+
+1	Si	si	SCONJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 664, V. 01	http://lila-erc.eu/data/id/lemma/124676
+2	voles	volo,velle	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 664, V. 01	http://lila-erc.eu/data/id/lemma/130746
+3	advortere	advertere	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 664, V. 01	http://lila-erc.eu/data/id/lemma/87682
+4	animum	animus	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 664, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/89094
+5	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 664, V. 01	_
+6	comiter	comis	ADJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 664, V. 01	http://lila-erc.eu/data/id/lemma/95032
+7	monstrabitur	monstro	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 664, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/112737
+8	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 664, V. 01	_
+
+1	Homo	homo	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 665, V. 01	http://lila-erc.eu/data/id/lemma/105624
+2	qui	qui	PRON	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 665, V. 01	http://lila-erc.eu/data/id/lemma/121354
+3	erranti	errans	ADJ	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 665, V. 01	http://lila-erc.eu/data/id/hypolemma/14534
+4	comiter	comis	ADJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 665, V. 01	http://lila-erc.eu/data/id/lemma/95032
+5	monstrat	monstro	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 665, V. 01	http://lila-erc.eu/data/id/lemma/112737
+6	viam	via	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 665, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/130088
+7	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 665, V. 01	_
+8	quasi	quasi	SCONJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 665, V. 02	http://lila-erc.eu/data/id/lemma/121112
+9	lumen	lumen	NOUN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 665, V. 02	http://lila-erc.eu/data/id/lemma/110960
+10	de	de	ADP	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 665, V. 02	http://lila-erc.eu/data/id/lemma/97932
+11	suo	suus	DET	_	Case=Abl|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 665, V. 02	http://lila-erc.eu/data/id/lemma/127165
+12	lumine	lumen	NOUN	_	Case=Abl|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 665, V. 02	http://lila-erc.eu/data/id/lemma/110960
+13	accendat	accendo	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 665, V. 02	http://lila-erc.eu/data/id/lemma/87089
+14	facit	facio	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 665, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/102758
+15	;	;	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 665, V. 02	_
+16	nihilo	nihilo minus	ADV	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 665, V. 03|Tmesis=Yes	http://lila-erc.eu/data/id/lemma/114166
+17	minus	nihilo minus	ADV	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 665, V. 03|Tmesis=Yes	http://lila-erc.eu/data/id/lemma/114166
+18	ipsi	ipse	DET	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 665, V. 03	http://lila-erc.eu/data/id/lemma/108945
+19	lucet	luceo	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 665, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/110846
+20	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 665, V. 03	_
+21	cum	cum	SCONJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 665, V. 03	http://lila-erc.eu/data/id/lemma/97202
+22	illi	ille	DET	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 665, V. 03	http://lila-erc.eu/data/id/lemma/106221
+23	accenderit	accendo	VERB	_	Mood=Sub|Voice=Act|Tense=Past|Aspect=Perf|Person=3|Number=Sing	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 665, V. 03|SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/87089
+24	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 665, V. 03	_
+
+1	Cui	qui	PRON	_	Case=Dat|Number=Sing	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 666, V. 01	http://lila-erc.eu/data/id/lemma/121354
+2	quod	qui	PRON	_	Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 666, V. 01	http://lila-erc.eu/data/id/lemma/121354
+3	in	in	ADP	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 666, V. 01	http://lila-erc.eu/data/id/lemma/106748
+4	me	ego	PRON	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 666, V. 01	http://lila-erc.eu/data/id/lemma/100712
+5	est	sum	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 666, V. 01	http://lila-erc.eu/data/id/lemma/126689
+6	exsecrabor	exsecror	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 666, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/102297
+7	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 666, V. 01	_
+8	hoc	hic	DET	_	Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 666, V. 01	http://lila-erc.eu/data/id/lemma/105455
+9	quod	qui	PRON	_	Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 666, V. 01	http://lila-erc.eu/data/id/lemma/121354
+10	lucet	luceo	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 666, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/110846
+11	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 666, V. 01	_
+12	quidquid	quisquis	PRON	_	Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 666, V. 01	http://lila-erc.eu/data/id/lemma/121322
+13	est	sum	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 666, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/126689
+14	...	...	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 666, V. 01	_
+
+1	Quem	qui	PRON	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 667, V. 01	http://lila-erc.eu/data/id/lemma/121354
+2	metuunt	metuo	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 667, V. 01	http://lila-erc.eu/data/id/lemma/112260
+3	oderunt	odi	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 667, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/114724
+4	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 667, V. 01	_
+5	quem	qui	PRON	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 667, V. 01	http://lila-erc.eu/data/id/lemma/121354
+6	quisque	quisque	DET	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 667, V. 01	http://lila-erc.eu/data/id/lemma/121320
+7	odit	odi	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 667, V. 01	http://lila-erc.eu/data/id/lemma/114724
+8	periisse	pereo	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 667, V. 01	http://lila-erc.eu/data/id/lemma/116791
+9	expetit	expeto	VERB	_	Mood=Ind|Voice=Act|Tense=Pres|Person=3|Number=Sing	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 667, V. 01|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens	http://lila-erc.eu/data/id/lemma/102173
+10	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 667, V. 01	_
+
+1	O	oh	INTJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 668, V. 01	http://lila-erc.eu/data/id/lemma/114172
+2	Fides	Fides	PROPN	_	Case=Voc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 668, V. 01	http://lila-erc.eu/data/id/lemma/7233
+3	alma	almus	ADJ	_	Case=Voc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 668, V. 01	http://lila-erc.eu/data/id/lemma/88426
+4	apta	apo	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Voc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 668, V. 01|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/89450
+5	pinnis	penna	NOUN	_	Case=Abl|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 668, V. 01	http://lila-erc.eu/data/id/lemma/116494
+6	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 668, V. 01	http://lila-erc.eu/data/id/lemma/101542
+7	ius	jus(justitia)	NOUN	_	Case=Voc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 668, V. 01	http://lila-erc.eu/data/id/lemma/109252
+8	iurandum	juro	VERB	_	VerbForm=Gdv|Voice=Pass|Case=Voc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 668, V. 01|TraditionalMood=Gerundivum	http://lila-erc.eu/data/id/lemma/109249
+9	Iovis	Juppiter	PROPN	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 668, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/10964
+10	!	!	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 668, V. 01	_
+
+1	nulla	nullus	DET	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 669, V. 01	http://lila-erc.eu/data/id/lemma/114081
+2	sancta	sanctus	ADJ	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 669, V. 01	http://lila-erc.eu/data/id/hypolemma/39324
+3	societas	societas	NOUN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 669, V. 01	http://lila-erc.eu/data/id/lemma/125008
+4	nec	nec	CCONJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 669, V. 02	http://lila-erc.eu/data/id/lemma/113512
+5	fides	fides	NOUN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 669, V. 02	http://lila-erc.eu/data/id/lemma/103260
+6	regni	regnum	NOUN	_	Case=Gen|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 669, V. 02	http://lila-erc.eu/data/id/lemma/121683
+7	est	sum	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 669, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/126689
+8	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 669, V. 02	_
+
+1	parentem	parens	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 670, V. 01	http://lila-erc.eu/data/id/lemma/116020
+2	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 670, V. 01	http://lila-erc.eu/data/id/lemma/101542
+3	pa<triam	patria	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 670, V. 01	http://lila-erc.eu/data/id/lemma/116250
+4	di	deus	NOUN	_	Case=Voc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 670, V. 01	http://lila-erc.eu/data/id/lemma/99132
+5	servate>	servo	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 670, V. 01	http://lila-erc.eu/data/id/lemma/124551
+6	sospitem	sospes	ADJ	_	Case=Acc|Number=Sing	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 670, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/125216
+7	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 670, V. 01	_
+
+1	vivam	vivo	VERB	_	Mood=Sub|Voice=Act|Tense=Pres|Person=1|Number=Sing	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 671, V. 01|TraditionalMood=Subiunctivus|TraditionalTense=Praesens	http://lila-erc.eu/data/id/lemma/130476
+2	an	an	CCONJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 671, V. 01	http://lila-erc.eu/data/id/lemma/88828
+3	moriar	morior	VERB	_	Mood=Sub|Voice=Pass|Tense=Pres|Person=1|Number=Sing	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 671, V. 01|TraditionalMood=Subiunctivus|TraditionalTense=Praesens	http://lila-erc.eu/data/id/lemma/112796
+4	nulla	nullus	DET	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 671, V. 01	http://lila-erc.eu/data/id/lemma/114081
+5	in	in	ADP	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 671, V. 01	http://lila-erc.eu/data/id/lemma/106748
+6	me	ego	PRON	_	Case=Abl|Number=Sing	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 671, V. 01	http://lila-erc.eu/data/id/lemma/100712
+7	est	sum	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 671, V. 01	http://lila-erc.eu/data/id/lemma/126689
+8	metus	metus	NOUN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 671, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/112261
+9	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 671, V. 01	_
+
+1	mulierem	mulier	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 672, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/112890
+2	;	;	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 672, V. 01	_
+3	quid	quis(interrogans)	PRON	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 672, V. 01	http://lila-erc.eu/data/id/lemma/121165
+4	potius	potis	ADJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 672, V. 01	http://lila-erc.eu/data/id/lemma/118664
+5	dicam	dico	VERB	_	Mood=Ind|Voice=Act|Tense=Fut|Aspect=Imp|Person=1|Number=Sing	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 672, V. 01|TraditionalMood=Indicativus|TraditionalTense=Futurum	http://lila-erc.eu/data/id/lemma/99302
+6	aut	aut	CCONJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 672, V. 01	http://lila-erc.eu/data/id/lemma/90827
+7	verius	verus	ADJ	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 672, V. 01	http://lila-erc.eu/data/id/lemma/129978
+8	quam	qua	_	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 672, V. 01	http://lila-erc.eu/data/id/Hypolemma/110471
+9	mulierem	mulier	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 672, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/112890
+10	?	?	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 672, V. 01	_
+
+1	Benefacta	benefactus	ADJ	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 673, V. 01	http://lila-erc.eu/data/id/hypolemma/5093
+2	male	malus,a,um	ADJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 673, V. 01	http://lila-erc.eu/data/id/lemma/111418
+3	locata	locatus	ADJ	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 673, V. 01	http://lila-erc.eu/data/id/hypolemma/25904
+4	malefacta	malefactum	NOUN	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 673, V. 01	http://lila-erc.eu/data/id/lemma/113274
+5	arbitror	arbitror	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 673, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/89778
+6	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 673, V. 01	_
+
+1	induta	induo	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 674, V. 01|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/107451
+2	fuit	sum(auxiliaris)	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 674, V. 01	http://lila-erc.eu/data/id/lemma/126689
+3	saeva	saevus	ADJ	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 674, V. 01	http://lila-erc.eu/data/id/lemma/123131
+4	stola	stola	NOUN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 674, V. 01	http://lila-erc.eu/data/id/lemma/125744
+
+1	cubitis	cubitum	NOUN	_	Case=Abl|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 675, V. 01	http://lila-erc.eu/data/id/lemma/97673
+2	pinsebant	pinso	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 675, V. 01	http://lila-erc.eu/data/id/lemma/120741
+3	humum	humus	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 675, V. 01	http://lila-erc.eu/data/id/lemma/105777
+
+1	Flammam	flamma	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 676, V. 01	http://lila-erc.eu/data/id/lemma/103402
+2	a	a	ADP	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 676, V. 01	http://lila-erc.eu/data/id/lemma/86824
+3	sapienti	sapiens	ADJ	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 676, V. 01	http://lila-erc.eu/data/id/hypolemma/39393
+4	facilius	facilis	ADJ	_	Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 676, V. 01	http://lila-erc.eu/data/id/lemma/102754
+5	ore	os,oris	NOUN	_	Case=Abl|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 676, V. 01	http://lila-erc.eu/data/id/lemma/115327
+6	in	in	ADP	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 676, V. 01	http://lila-erc.eu/data/id/lemma/106748
+7	ardenti	ardens	ADJ	_	Case=Abl|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 676, V. 01	http://lila-erc.eu/data/id/hypolemma/3134
+8	opprimi	opprimo	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 676, V. 01	http://lila-erc.eu/data/id/lemma/115131
+9	quam	qua	_	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 676, V. 02	http://lila-erc.eu/data/id/Hypolemma/110471
+10	bona	bonus	ADJ	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 676, V. 02	http://lila-erc.eu/data/id/lemma/91782
+11	dicta	dictus,a,um	NOUN	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 676, V. 02	http://lila-erc.eu/data/id/lemma/100417
+12	teneat	teneo	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 676, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/127822
+13	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 676, V. 02	_
+
+1	deos	deus	NOUN	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 677, V. 01	http://lila-erc.eu/data/id/lemma/99132
+2	aevi	aevum	NOUN	_	Case=Gen|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 677, V. 01	http://lila-erc.eu/data/id/lemma/87978
+3	integros	integer	ADJ	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 677, V. 01	http://lila-erc.eu/data/id/lemma/108350
+
+1	angue	anguis	NOUN	_	Case=Abl|Number=Sing	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 678, V. 01	http://lila-erc.eu/data/id/lemma/89037
+2	villosi	villosus	ADJ	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 678, V. 01	http://lila-erc.eu/data/id/lemma/130208
+3	canis	canis	NOUN	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 678, V. 01	http://lila-erc.eu/data/id/lemma/92575
+
+1	ille	ille	DET	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 679, V. 01	http://lila-erc.eu/data/id/lemma/106221
+2	meae	meus	DET	_	Case=Gen|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 679, V. 01	http://lila-erc.eu/data/id/lemma/112262
+3	tam	tam	ADV	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 679, V. 01	http://lila-erc.eu/data/id/lemma/127600
+4	potis	potis	ADJ	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 679, V. 01	http://lila-erc.eu/data/id/lemma/118664
+5	pacis	pax	NOUN	_	Case=Gen|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 679, V. 01	http://lila-erc.eu/data/id/lemma/116322
+6	potiri	potiri	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 679, V. 01	http://lila-erc.eu/data/id/lemma/118660
+
+1	hehae	hei	INTJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 680, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/100723
+2	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 680, V. 01	_
+3	ipse	ipse	DET	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 680, V. 02	http://lila-erc.eu/data/id/lemma/108945
+4	clipeus	clipeus	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 680, V. 02	http://lila-erc.eu/data/id/lemma/94525
+5	cecidit	cado	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 680, V. 02	http://lila-erc.eu/data/id/lemma/92179
+
+1	Heu	heu	INTJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 681, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/105417
+2	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 681, V. 01	_
+3	mea	meus	DET	_	Case=Voc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 681, V. 01	http://lila-erc.eu/data/id/lemma/112262
+4	puella	puella	NOUN	_	Case=Voc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 681, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/118823
+5	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 681, V. 01	_
+6	e	ex	ADP	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 681, V. 01	http://lila-erc.eu/data/id/lemma/101716
+7	spe	spes	NOUN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 681, V. 01	http://lila-erc.eu/data/id/lemma/125336
+8	quidem	quidem	ADV	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 681, V. 01	http://lila-erc.eu/data/id/lemma/121168
+9	id	is	DET	_	Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 681, V. 01	http://lila-erc.eu/data/id/lemma/109083
+10	successit	succedo	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 681, V. 01	http://lila-erc.eu/data/id/lemma/126507
+11	tibi	tu	PRON	_	Case=Dat|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 681, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/129131
+12	!	!	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 681, V. 01	_
+
+1	Extemplo	extemplo	ADV	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 682, V. 01	http://lila-erc.eu/data/id/lemma/102400
+2	acceptum	accipio	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 682, V. 01|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/87119
+3	me	ego	PRON	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 682, V. 01	http://lila-erc.eu/data/id/lemma/100712
+4	necato	neco	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 682, V. 01	http://lila-erc.eu/data/id/lemma/113514
+5	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 682, V. 01	http://lila-erc.eu/data/id/lemma/101542
+6	filiam	filia	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 682, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/103296
+7	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 682, V. 01	_
+
+1	Vocibus	vox	NOUN	_	Case=Abl|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 683, V. 01	http://lila-erc.eu/data/id/lemma/130806
+2	concide	concido(caedo)	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 683, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/95501
+3	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 683, V. 01	_
+4	<verbis>	verbum	NOUN	_	Case=Abl|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 683, V. 01	http://lila-erc.eu/data/id/lemma/131057
+5	facsis	facio	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 683, V. 01	http://lila-erc.eu/data/id/lemma/102758
+6	musset	musso	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 683, V. 01	http://lila-erc.eu/data/id/lemma/113138
+7	obrutus	obruo	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 683, V. 01|SpaceAfter=No|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/114363
+8	!	!	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 683, V. 01	_
+
+1	Quicquam	quisquam	PRON	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 684, V. 01	http://lila-erc.eu/data/id/lemma/121315
+2	quisquam	quisquam	PRON	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 684, V. 01	http://lila-erc.eu/data/id/lemma/121315
+3	cuique	quisque	DET	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 684, V. 01	http://lila-erc.eu/data/id/lemma/121320
+4	(	(	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 684, V. 01|SpaceAfter=No	_
+5	quemque	quisque	DET	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 684, V. 01	http://lila-erc.eu/data/id/lemma/121320
+6	quisque	quisque	DET	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 684, V. 01	http://lila-erc.eu/data/id/lemma/121320
+7	conveniat	convenio	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 684, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/96424
+8	)	)	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 684, V. 01	_
+9	neget	nego	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 684, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/113553
+10	?	?	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 684, V. 01	_
+
+1	Illic	illic	DET	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 685, V. 01	http://lila-erc.eu/data/id/lemma/106221
+2	est	sum	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 685, V. 01	http://lila-erc.eu/data/id/lemma/126689
+3	nugator	nugator	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 685, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/113952
+4	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 685, V. 01	_
+5	nihili	nihil	PRON	_	Case=Gen|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 685, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/114071
+6	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 685, V. 01	_
+7	non	non	ADV	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 685, V. 01	http://lila-erc.eu/data/id/lemma/114108
+8	nauci	naucum	NOUN	_	Case=Gen|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 685, V. 01	http://lila-erc.eu/data/id/lemma/113435
+9	<est>	sum(copula)	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 685, V. 01	http://lila-erc.eu/data/id/lemma/126689
+10	homo	homo	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 685, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/105624
+11	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 685, V. 01	_
+
+1	An	an	CCONJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 686, V. 01	http://lila-erc.eu/data/id/lemma/88828
+2	aliquid	aliquis	PRON	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 686, V. 01	http://lila-erc.eu/data/id/lemma/91108
+3	quod	qui	PRON	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 686, V. 01	http://lila-erc.eu/data/id/lemma/121354
+4	illi	ille	DET	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 686, V. 01	http://lila-erc.eu/data/id/lemma/106221
+5	do	do	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 686, V. 01	http://lila-erc.eu/data/id/lemma/99970
+6	moraret	moror,atus sum	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 686, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/112802
+7	?	?	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 686, V. 01	_
+
+1	Non	non	ADV	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 686, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/114108
+2	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 686, V. 01	_
+3	sed	sed	CCONJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 686, V. 01	http://lila-erc.eu/data/id/lemma/123994
+4	accipit	accipio	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 686, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/87119
+5	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 686, V. 01	_
+
+1	Ad	ad	ADP	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 687, V. 01	http://lila-erc.eu/data/id/lemma/87344
+2	eum	is	DET	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 687, V. 01	http://lila-erc.eu/data/id/lemma/109083
+3	aditavere	adito	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 687, V. 01	http://lila-erc.eu/data/id/lemma/87484
+
+1	festivum	festivus	ADJ	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 688, V. 01	http://lila-erc.eu/data/id/lemma/103190
+2	festinat	festino	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 688, V. 01	http://lila-erc.eu/data/id/lemma/103186
+3	diem	dies	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 688, V. 01	http://lila-erc.eu/data/id/lemma/99334
+
+1-2	imprimitque	_	_	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 689, V. 01	_
+1	imprimit	imprimo	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 689, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/106675
+2	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 689, V. 01	http://lila-erc.eu/data/id/lemma/131416
+3	genae	gena	NOUN	_	Case=Dat|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 689, V. 01	http://lila-erc.eu/data/id/lemma/104436
+4	genam	gena	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 689, V. 01	http://lila-erc.eu/data/id/lemma/104436
+
+1	Topper	toper	ADV	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 690, V. 01	http://lila-erc.eu/data/id/lemma/128411
+2	quam	qui	PRON	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 690, V. 01	http://lila-erc.eu/data/id/lemma/121354
+3	nemo	nemo	PRON	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 690, V. 01	http://lila-erc.eu/data/id/lemma/113605
+4	melius	melior	ADJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 690, V. 01	http://lila-erc.eu/data/id/lemma/111906
+5	scit	scio	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 690, V. 01	http://lila-erc.eu/data/id/lemma/123732
+
+1	Somnia	somnium	NOUN	_	Case=Nom|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 691, V. 01	http://lila-erc.eu/data/id/lemma/125126
+2	aliquot	aliquot	DET	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 691, V. 01	http://lila-erc.eu/data/id/lemma/91092
+3	vera	verus	ADJ	_	Case=Nom|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 691, V. 01	http://lila-erc.eu/data/id/lemma/129978
+4	sunt	sum(copula)	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 691, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/126689
+5	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 691, V. 01	_
+6	sed	sed	CCONJ	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 691, V. 01	http://lila-erc.eu/data/id/lemma/123994
+7	non	non	ADV	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 691, V. 01	http://lila-erc.eu/data/id/lemma/114108
+8	necesse	necesse	ADV	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 691, V. 01	http://lila-erc.eu/data/id/lemma/113513
+9	est	sum	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 691, V. 01	http://lila-erc.eu/data/id/lemma/126689
+10	omnia	omnis	DET	_	Case=Nom|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 691, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/114954
+11	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 691, V. 01	_
+
+1	Ardua	arduus	ADJ	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 692, V. 01	http://lila-erc.eu/data/id/lemma/89907
+2	tesca	tescum	NOUN	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 692, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/127959
+3	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 692, V. 01	_
+4	aspera	asper	ADJ	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 692, V. 01	http://lila-erc.eu/data/id/lemma/90240
+5	saxa	saxum	NOUN	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 692, V. 01	http://lila-erc.eu/data/id/lemma/123551
+6	tuor	tueor	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 692, V. 01	http://lila-erc.eu/data/id/lemma/129187
+
+1	sonitu	sonitus,us	NOUN	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 693, V. 01	http://lila-erc.eu/data/id/lemma/127465
+2	concutit	concutio	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 693, V. 01	http://lila-erc.eu/data/id/lemma/95622
+
+1	versat	verso	VERB	_	_	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 694, V. 01	http://lila-erc.eu/data/id/lemma/129942
+2	mucronem	mucro	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=E fabulis incerti nominis, Fr. 694, V. 01	http://lila-erc.eu/data/id/lemma/112859
+
+1	O	oh	INTJ	_	_	_	_	_	CitationHierarchy=Incerta, Fr. 695, V. 01	http://lila-erc.eu/data/id/lemma/114172
+2	sancte	sanctus	ADJ	_	Case=Voc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Incerta, Fr. 695, V. 01	http://lila-erc.eu/data/id/hypolemma/39324
+3	Apollo	Apollo	PROPN	_	Case=Voc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Incerta, Fr. 695, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/20103
+4	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Incerta, Fr. 695, V. 01	_
+5	qui	qui	PRON	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Incerta, Fr. 695, V. 01	http://lila-erc.eu/data/id/lemma/121354
+6	umbilicum	umbilicus	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Incerta, Fr. 695, V. 01	http://lila-erc.eu/data/id/lemma/130531
+7	certum	certus	ADJ	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Incerta, Fr. 695, V. 01	http://lila-erc.eu/data/id/lemma/93581
+8	terrarum	terra	NOUN	_	Case=Gen|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Incerta, Fr. 695, V. 01	http://lila-erc.eu/data/id/lemma/127912
+9	optines	obtineo	VERB	_	_	_	_	_	CitationHierarchy=Incerta, Fr. 695, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/114504
+10	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Incerta, Fr. 695, V. 01	_
+11	unde	unde	ADV	_	_	_	_	_	CitationHierarchy=Incerta, Fr. 695, V. 02	http://lila-erc.eu/data/id/lemma/130603
+12	superstitiosa	superstitiosus	ADJ	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Incerta, Fr. 695, V. 02	http://lila-erc.eu/data/id/lemma/126959
+13	primum	prae	NOUN	_	_	_	_	_	CitationHierarchy=Incerta, Fr. 695, V. 02	http://lila-erc.eu/data/id/lemma/72917
+14	saeva	saevus	ADJ	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Incerta, Fr. 695, V. 02	http://lila-erc.eu/data/id/lemma/123131
+15	evasit	evado	VERB	_	_	_	_	_	CitationHierarchy=Incerta, Fr. 695, V. 02	http://lila-erc.eu/data/id/lemma/101565
+16	vox	vox	NOUN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Incerta, Fr. 695, V. 02	http://lila-erc.eu/data/id/lemma/130806
+17	foras	foras	ADV	_	_	_	_	_	CitationHierarchy=Incerta, Fr. 695, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/103610
+18	...	...	PUNCT	_	_	_	_	_	CitationHierarchy=Incerta, Fr. 695, V. 02	_
+
+1	Hecuba	Hecuba	PROPN	_	Case=Voc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Incerta, Fr. 696, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/8783
+2	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Incerta, Fr. 696, V. 01	_
+3	hoc	hic	DET	_	Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Incerta, Fr. 696, V. 01	http://lila-erc.eu/data/id/lemma/105455
+4	dolet	doleo	VERB	_	_	_	_	_	CitationHierarchy=Incerta, Fr. 696, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/100021
+5	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Incerta, Fr. 696, V. 01	_
+6	pudet	pudeo	VERB	_	_	_	_	_	CitationHierarchy=Incerta, Fr. 696, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/120361
+7	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Incerta, Fr. 696, V. 01	_
+8	piget	piget	VERB	_	_	_	_	_	CitationHierarchy=Incerta, Fr. 696, V. 01	http://lila-erc.eu/data/id/lemma/117797
+
+1	ubi	ubi	ADV	_	_	_	_	_	CitationHierarchy=Incerta, Fr. 697, V. 01	http://lila-erc.eu/data/id/lemma/129639
+2	initiantur	initio	VERB	_	_	_	_	_	CitationHierarchy=Incerta, Fr. 697, V. 01	http://lila-erc.eu/data/id/lemma/107902
+3	gentes	gens	NOUN	_	Case=Nom|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Incerta, Fr. 697, V. 01	http://lila-erc.eu/data/id/lemma/104490
+4	orarum	ora	NOUN	_	Case=Gen|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Incerta, Fr. 697, V. 01	http://lila-erc.eu/data/id/lemma/115173
+5	ultimae	ulter	ADJ	_	Case=Nom|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Incerta, Fr. 697, V. 01	http://lila-erc.eu/data/id/lemma/130507
+
+1	Facinus	facinus	NOUN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Incerta, Fr. 698, V. 01	http://lila-erc.eu/data/id/lemma/102757
+2	fecit	facio	VERB	_	_	_	_	_	CitationHierarchy=Incerta, Fr. 698, V. 01	http://lila-erc.eu/data/id/lemma/102758
+3	maximum	maximus	ADJ	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Incerta, Fr. 698, V. 01	http://lila-erc.eu/data/id/lemma/111753
+4	cum	cum	SCONJ	_	_	_	_	_	CitationHierarchy=Incerta, Fr. 698, V. 02	http://lila-erc.eu/data/id/lemma/97202
+5	Danais	Danaus	PROPN	_	Case=Abl|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Incerta, Fr. 698, V. 02	http://lila-erc.eu/data/id/lemma/4501
+6	inclinantibus	inclino	VERB	_	VerbForm=Part|Voice=Act|Tense=Pres|Case=Abl|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Incerta, Fr. 698, V. 02|TraditionalMood=Participium|TraditionalTense=Praesens	http://lila-erc.eu/data/id/lemma/107004
+7	summam	superus	ADJ	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Incerta, Fr. 698, V. 02	http://lila-erc.eu/data/id/lemma/126999
+8	rem	res	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Incerta, Fr. 698, V. 02	http://lila-erc.eu/data/id/lemma/121868
+9	perfecit	perficio	VERB	_	_	_	_	_	CitationHierarchy=Incerta, Fr. 698, V. 02	http://lila-erc.eu/data/id/lemma/116821
+10	manu	manus,us	NOUN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Incerta, Fr. 698, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/111585
+11	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Incerta, Fr. 698, V. 02	_
+
+1	Quod	quod	SCONJ	_	_	_	_	_	CitationHierarchy=Incerta, Fr. 699, V. 01	http://lila-erc.eu/data/id/lemma/74854
+2	inglorius	inglorius	ADJ	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Incerta, Fr. 699, V. 01	http://lila-erc.eu/data/id/lemma/107808
+3	atque	atque	CCONJ	_	_	_	_	_	CitationHierarchy=Incerta, Fr. 699, V. 01	http://lila-erc.eu/data/id/lemma/90490
+4	ignobilis	ignobilis	ADJ	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Incerta, Fr. 699, V. 01	http://lila-erc.eu/data/id/lemma/106163
+5	es	sum(auxiliaris)	VERB	_	_	_	_	_	CitationHierarchy=Incerta, Fr. 699, V. 01	http://lila-erc.eu/data/id/lemma/126689
+6	ad	ad	ADP	_	_	_	_	_	CitationHierarchy=Incerta, Fr. 699, V. 02	http://lila-erc.eu/data/id/lemma/87344
+7	summum	superus	ADJ	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Incerta, Fr. 699, V. 02	http://lila-erc.eu/data/id/lemma/126999
+8	diem	dies	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Incerta, Fr. 699, V. 02	http://lila-erc.eu/data/id/lemma/99334
+9	perventurus	pervenio	VERB	_	VerbForm=Part|Voice=Act|Tense=Fut|Aspect=Imp|Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Incerta, Fr. 699, V. 02|TraditionalMood=Participium|TraditionalTense=Futurum	http://lila-erc.eu/data/id/lemma/117445

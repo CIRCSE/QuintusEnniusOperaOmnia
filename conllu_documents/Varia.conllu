@@ -1,0 +1,1421 @@
+# docId=varia
+# docTitle=Varia
+# contributor=Federica Iurescia, Giovanni Moretti, Paolo Ruffolo, Marco Passarotti
+# corpusRef=http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus
+# docAuthor=http://lila-erc.eu/data/authors/id/a174
+# description=Fragments from the following works: Scipio, Epigrammata, Sota, Protrepticus sive Praecepta, Hedupagetica, Epicarmus, Euhemerus sive Sacra Historia
+
+1	Mundus	mundus,i	ADJ	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 01	http://lila-erc.eu/data/id/lemma/113021
+2	caeli	caelum/us	NOUN	_	Case=Gen|Number=Sing	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 01	http://lila-erc.eu/data/id/lemma/92231
+3	vastus	vastus	ADJ	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 01	http://lila-erc.eu/data/id/lemma/129623
+4	constitit	consisto	VERB	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 01	http://lila-erc.eu/data/id/lemma/96065
+5	silentio	silentium	NOUN	_	Case=Abl|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 01	http://lila-erc.eu/data/id/lemma/124775
+6	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 02	http://lila-erc.eu/data/id/lemma/101542
+7	Neptunus	Neptunus	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 02	http://lila-erc.eu/data/id/lemma/15642
+8	saevus	saevus	ADJ	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 02	http://lila-erc.eu/data/id/lemma/123131
+9	undis	unda	NOUN	_	Case=Dat|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 02	http://lila-erc.eu/data/id/lemma/130599
+10	asperis	asper	ADJ	_	Case=Dat|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 02	http://lila-erc.eu/data/id/lemma/90240
+11	pausam	pausa	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 02	http://lila-erc.eu/data/id/lemma/116391
+12	dedit	do	VERB	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/99970
+13	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 02	_
+14	Sol	sol	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 03	http://lila-erc.eu/data/id/lemma/125027
+15	equis	equus	NOUN	_	Case=Dat|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 03	http://lila-erc.eu/data/id/lemma/101076
+16	iter	iter	NOUN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 03	http://lila-erc.eu/data/id/lemma/109132
+17	repressit	reprimo	VERB	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 03	http://lila-erc.eu/data/id/lemma/122682
+18	ungulis	ungula	NOUN	_	Case=Abl|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 03	http://lila-erc.eu/data/id/lemma/130659
+19	volantibus	volans	ADJ	_	Case=Abl|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/hypolemma/47220
+20	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 03	_
+21	constitere	consisto	VERB	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 04	http://lila-erc.eu/data/id/lemma/96065
+22	amnes	amnis	NOUN	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 04	http://lila-erc.eu/data/id/lemma/88704
+23	perennes	perennis	ADJ	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 04|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/116785
+24	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 04	_
+25	arbores	arbor	NOUN	_	Case=Nom|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 04	http://lila-erc.eu/data/id/lemma/89780
+26	vento	ventus,i	NOUN	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 04	http://lila-erc.eu/data/id/lemma/129820
+27	vacant	vaco	VERB	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 04|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/129468
+28	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 720, V. 04	_
+
+1	...	...	PUNCT	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 721, V. 01|SpaceAfter=No	_
+2	qua	qui	PRON	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 721, V. 01	http://lila-erc.eu/data/id/lemma/121354
+3	propter	propter	ADP	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 721, V. 01	http://lila-erc.eu/data/id/lemma/119992
+4	Hannibalis	Hannibal	PROPN	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 721, V. 01	http://lila-erc.eu/data/id/lemma/8686
+5	copias	copia	NOUN	_	Case=Acc|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Scipio, Fr. 721, V. 01	http://lila-erc.eu/data/id/lemma/96517
+6	considerat	consido	VERB	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 721, V. 01	http://lila-erc.eu/data/id/lemma/97533
+
+1	Sparsis	spargo,ere	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Abl|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Scipio, Fr. 722, V. 01|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/125240
+2	hastis	hasta	NOUN	_	Case=Abl|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Scipio, Fr. 722, V. 01	http://lila-erc.eu/data/id/lemma/105195
+3	longis	longus	ADJ	_	Case=Abl|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Scipio, Fr. 722, V. 01	http://lila-erc.eu/data/id/lemma/110796
+4	campus	campus(planities)	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 722, V. 01	http://lila-erc.eu/data/id/lemma/92503
+5	splendet	splendeo	VERB	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 722, V. 01	http://lila-erc.eu/data/id/lemma/125421
+6	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 722, V. 01	http://lila-erc.eu/data/id/lemma/101542
+7	horret	horreo	VERB	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 722, V. 01	http://lila-erc.eu/data/id/lemma/105698
+
+1	"	"	PUNCT	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 723, V. 01|SpaceAfter=No	_
+2	Vel	vel	CCONJ	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 723, V. 01	http://lila-erc.eu/data/id/lemma/129695
+3	tu	tu	PRON	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 723, V. 01	http://lila-erc.eu/data/id/lemma/129131
+4	dictator	dictator	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 723, V. 01	http://lila-erc.eu/data/id/lemma/99310
+5	vel	vel	CCONJ	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 723, V. 01	http://lila-erc.eu/data/id/lemma/129695
+6	equorum	equus	NOUN	_	Case=Gen|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 723, V. 01	http://lila-erc.eu/data/id/lemma/101076
+7-8	equitumque	_	_	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 723, V. 01	_
+7	equitum	eques	NOUN	_	Case=Gen|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 723, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/101354
+8	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 723, V. 01	http://lila-erc.eu/data/id/lemma/131416
+9	magister	magister	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 723, V. 01	http://lila-erc.eu/data/id/lemma/111274
+10	esto	sum(copula)	VERB	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 723, V. 02	http://lila-erc.eu/data/id/lemma/126689
+11	vel	vel	CCONJ	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 723, V. 02	http://lila-erc.eu/data/id/lemma/129695
+12	consul	consul	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 723, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/96181
+13	"	"	PUNCT	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 723, V. 02|SpaceAfter=No	_
+14	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 723, V. 02	_
+
+1	Scipio	Scipio	PROPN	_	Case=Voc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 724, V. 01	http://lila-erc.eu/data/id/lemma/21061
+2	invicte	invictus	ADJ	_	Case=Voc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 724, V. 01	http://lila-erc.eu/data/id/lemma/108840
+
+1	"	"	PUNCT	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 725, V. 01|SpaceAfter=No	_
+2	Quam	qui	PRON	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Scipio, Fr. 725, V. 01	http://lila-erc.eu/data/id/lemma/121354
+3	tantam	tantus	DET	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Scipio, Fr. 725, V. 01	http://lila-erc.eu/data/id/lemma/127630
+4	statuam	statua	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Scipio, Fr. 725, V. 01	http://lila-erc.eu/data/id/lemma/125602
+5	faciet	facio	VERB	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 725, V. 01	http://lila-erc.eu/data/id/lemma/102758
+6	populus	populus(cives)	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 725, V. 01	http://lila-erc.eu/data/id/lemma/118463
+7	Romanus	Romanus	ADJ	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 725, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/20302
+8	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 725, V. 01	_
+9-10	quamve	_	_	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 725, V. 02	_
+9	quam	qui	PRON	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Scipio, Fr. 725, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/121354
+10	ve	ve	CCONJ	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 725, V. 02	http://lila-erc.eu/data/id/lemma/131456
+11	columnam	columna	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Scipio, Fr. 725, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/94982
+12	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 725, V. 02	_
+13	quae	qui	PRON	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Scipio, Fr. 725, V. 02	http://lila-erc.eu/data/id/lemma/121354
+14	te	tu	PRON	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 725, V. 02	http://lila-erc.eu/data/id/lemma/129131
+15	res	res	NOUN	_	Case=Acc|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Scipio, Fr. 725, V. 02	http://lila-erc.eu/data/id/lemma/121868
+16-17	gestasque	_	_	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 725, V. 02	_
+16	gestas	gestus,a,um	NOUN	_	Case=Acc|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Scipio, Fr. 725, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/104583
+17	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 725, V. 02	http://lila-erc.eu/data/id/lemma/131416
+18	loquatur	loquor	VERB	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 725, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/110805
+19	?	?	PUNCT	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 725, V. 02	_
+
+1	"	"	PUNCT	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 726, V. 01|SpaceAfter=No	_
+2	Desine	desino	VERB	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 726, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/98910
+3	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 726, V. 01	_
+4	Roma	Roma	PROPN	_	Case=Voc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Scipio, Fr. 726, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/20293
+5	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 726, V. 01	_
+6	tuos	tuus	DET	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 726, V. 01	http://lila-erc.eu/data/id/lemma/129328
+7	hostes	hostis	NOUN	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 726, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/105757
+8	...	...	PUNCT	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 726, V. 01	_
+
+1	"	"	PUNCT	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 727, V. 01|SpaceAfter=No	_
+2	Nam	nam	ADV	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 727, V. 01	http://lila-erc.eu/data/id/lemma/113344
+3	tibi	tu	PRON	_	Case=Dat|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Scipio, Fr. 727, V. 01	http://lila-erc.eu/data/id/lemma/129131
+4	moenimenta	munimentum	NOUN	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Scipio, Fr. 727, V. 01	http://lila-erc.eu/data/id/lemma/113052
+5	mei	meus	DET	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 727, V. 01	http://lila-erc.eu/data/id/lemma/112262
+6	peperere	pario	VERB	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 727, V. 01	http://lila-erc.eu/data/id/lemma/116052
+7	labores	labor,oris	NOUN	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 727, V. 01	http://lila-erc.eu/data/id/lemma/109621
+
+1	Testes	testis	NOUN	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 728, V. 01	http://lila-erc.eu/data/id/lemma/127994
+2	sunt	sum	VERB	_	_	_	_	_	CitationHierarchy=Scipio, Fr. 728, V. 01	http://lila-erc.eu/data/id/lemma/126689
+3	Campi	Campus	PROPN	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 728, V. 01	http://lila-erc.eu/data/id/lemma/2232
+4	Magni	Magnus	ADJ	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Scipio, Fr. 728, V. 01	http://lila-erc.eu/data/id/lemma/111319
+
+1	Hic	hic	DET	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 729, V. 01	http://lila-erc.eu/data/id/lemma/105455
+2	est	sum	VERB	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 729, V. 01	http://lila-erc.eu/data/id/lemma/126689
+3	ille	ille	DET	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epigrammata, Fr. 729, V. 01	http://lila-erc.eu/data/id/lemma/106221
+4	situs	sino	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epigrammata, Fr. 729, V. 01|SpaceAfter=No|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/124907
+5	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 729, V. 01	_
+6	cui	qui	PRON	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epigrammata, Fr. 729, V. 01	http://lila-erc.eu/data/id/lemma/121354
+7	nemo	nemo	PRON	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epigrammata, Fr. 729, V. 01	http://lila-erc.eu/data/id/lemma/113605
+8	civis	civis	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epigrammata, Fr. 729, V. 01	http://lila-erc.eu/data/id/lemma/94399
+9	neque	nec	CCONJ	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 729, V. 01	http://lila-erc.eu/data/id/lemma/113512
+10	hostis	hostis	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epigrammata, Fr. 729, V. 01	http://lila-erc.eu/data/id/lemma/105757
+11	quivit	queo	VERB	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 729, V. 02	http://lila-erc.eu/data/id/lemma/121142
+12	pro	pro	ADP	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 729, V. 02	http://lila-erc.eu/data/id/lemma/118468
+13	factis	factus,a,um	NOUN	_	Case=Abl|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Epigrammata, Fr. 729, V. 02	http://lila-erc.eu/data/id/lemma/104165
+14	reddere	reddere	VERB	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 729, V. 02	http://lila-erc.eu/data/id/lemma/122458
+15	opis	ops	NOUN	_	Case=Gen|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Epigrammata, Fr. 729, V. 02	http://lila-erc.eu/data/id/lemma/115146
+16	pretium	pretium	NOUN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Epigrammata, Fr. 729, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/119455
+17	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 729, V. 02	_
+
+1	Si	si	SCONJ	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 730, V. 01	http://lila-erc.eu/data/id/lemma/124676
+2	fas	fas	NOUN	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 730, V. 01	http://lila-erc.eu/data/id/lemma/102951
+3	endo	endo	ADP	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 730, V. 01	http://lila-erc.eu/data/id/lemma/106748
+4	plagas	plaga(regio)	NOUN	_	Case=Acc|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Epigrammata, Fr. 730, V. 01	http://lila-erc.eu/data/id/lemma/118022
+5	caelestum	caelestis	ADJ	_	Case=Gen|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Epigrammata, Fr. 730, V. 01	http://lila-erc.eu/data/id/lemma/92214
+6	ascendere	ascendo	VERB	_	VerbForm=Inf|Voice=Act|Tense=Pres	_	_	_	CitationHierarchy=Epigrammata, Fr. 730, V. 01|TraditionalMood=Infinitivus|TraditionalTense=Praesens	http://lila-erc.eu/data/id/lemma/90185
+7	cuiquam	quisquam	PRON	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epigrammata, Fr. 730, V. 01	http://lila-erc.eu/data/id/lemma/121315
+8	est	sum	VERB	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 730, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/126689
+9	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 730, V. 01	_
+10	mi	ego	PRON	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epigrammata, Fr. 730, V. 02	http://lila-erc.eu/data/id/lemma/100712
+11	soli	solus,a,um	DET	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epigrammata, Fr. 730, V. 02	http://lila-erc.eu/data/id/lemma/125109
+12	caeli	caelum/us	NOUN	_	Case=Gen|Number=Sing	_	_	_	CitationHierarchy=Epigrammata, Fr. 730, V. 02	http://lila-erc.eu/data/id/lemma/92231
+13	maxima	maximus	ADJ	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Epigrammata, Fr. 730, V. 02	http://lila-erc.eu/data/id/lemma/111753
+14	porta	porta	NOUN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Epigrammata, Fr. 730, V. 02	http://lila-erc.eu/data/id/lemma/118508
+15	patet	pateo	VERB	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 730, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/116202
+16	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 730, V. 02	_
+
+1	A	a	ADP	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 731, V. 01	http://lila-erc.eu/data/id/lemma/86824
+2	sole	sol	NOUN	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epigrammata, Fr. 731, V. 01	http://lila-erc.eu/data/id/lemma/125027
+3	exoriente	exoriens	ADJ	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epigrammata, Fr. 731, V. 01	http://lila-erc.eu/data/id/hypolemma/15313
+4	supra	supra	ADP	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 731, V. 01	http://lila-erc.eu/data/id/lemma/127064
+5	Maeotis	Maeotis	PROPN	_	Case=Gen|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Epigrammata, Fr. 731, V. 01	http://lila-erc.eu/data/id/lemma/12942
+6	paludes	palus,ludis	NOUN	_	Case=Acc|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Epigrammata, Fr. 731, V. 01	http://lila-erc.eu/data/id/lemma/115774
+7	nemo	nemo	PRON	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epigrammata, Fr. 731, V. 02	http://lila-erc.eu/data/id/lemma/113605
+8	est	sum	VERB	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 731, V. 02	http://lila-erc.eu/data/id/lemma/126689
+9	qui	qui	PRON	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epigrammata, Fr. 731, V. 02	http://lila-erc.eu/data/id/lemma/121354
+10	factis	factus,a,um	NOUN	_	Case=Abl|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Epigrammata, Fr. 731, V. 02	http://lila-erc.eu/data/id/lemma/104165
+11	aequiperare	aequipero	VERB	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 731, V. 02	http://lila-erc.eu/data/id/lemma/87859
+12	queat	queo	VERB	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 731, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/121142
+13	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 731, V. 02	_
+
+1	Aspicite	aspicio	VERB	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 732, V. 01	http://lila-erc.eu/data/id/lemma/90262
+2	o	oh	INTJ	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 732, V. 01	http://lila-erc.eu/data/id/lemma/114172
+3	cives	civis	NOUN	_	Case=Voc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Epigrammata, Fr. 732, V. 01	http://lila-erc.eu/data/id/lemma/94399
+4	senis	senex	ADJ	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epigrammata, Fr. 732, V. 01	http://lila-erc.eu/data/id/lemma/124317
+5	Enni	Ennius	PROPN	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epigrammata, Fr. 732, V. 01	http://lila-erc.eu/data/id/lemma/6024
+6	imaginis	imago	NOUN	_	Case=Gen|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Epigrammata, Fr. 732, V. 01	http://lila-erc.eu/data/id/lemma/106319
+7	formam	forma	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Epigrammata, Fr. 732, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/103630
+8	:	:	PUNCT	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 732, V. 01	_
+9	hic	hic	DET	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epigrammata, Fr. 732, V. 02	http://lila-erc.eu/data/id/lemma/105455
+10	vestrum	vester	DET	_	Case=Gen|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Epigrammata, Fr. 732, V. 02	http://lila-erc.eu/data/id/lemma/130009
+11	pinxit	pingo	VERB	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 732, V. 02	http://lila-erc.eu/data/id/lemma/117857
+12	maxima	maximus	ADJ	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Epigrammata, Fr. 732, V. 02	http://lila-erc.eu/data/id/lemma/111753
+13	facta	factus,a,um	NOUN	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Epigrammata, Fr. 732, V. 02	http://lila-erc.eu/data/id/lemma/104165
+14	patrum	pater	NOUN	_	Case=Gen|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Epigrammata, Fr. 732, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/116203
+15	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 732, V. 02	_
+
+1	Nemo	nemo	PRON	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epigrammata, Fr. 733, V. 01	http://lila-erc.eu/data/id/lemma/113605
+2	me	ego	PRON	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epigrammata, Fr. 733, V. 01	http://lila-erc.eu/data/id/lemma/100712
+3	dacrimis	lacrima	NOUN	_	Case=Abl|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Epigrammata, Fr. 733, V. 01	http://lila-erc.eu/data/id/lemma/109669
+4	decoret	decoro	VERB	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 733, V. 01	http://lila-erc.eu/data/id/lemma/98126
+5	nec	nec	CCONJ	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 733, V. 01	http://lila-erc.eu/data/id/lemma/113512
+6	funera	funus	NOUN	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Epigrammata, Fr. 733, V. 01	http://lila-erc.eu/data/id/lemma/104031
+7	fletu	fletus,us	NOUN	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epigrammata, Fr. 733, V. 01	http://lila-erc.eu/data/id/lemma/104170
+8	faxit	facio	VERB	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 733, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/102758
+9	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 733, V. 02	_
+
+1	Cur	cur	ADV	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 733, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/97300
+2	?	?	PUNCT	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 733, V. 02	_
+
+1	Volito	volito	VERB	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 733, V. 02	http://lila-erc.eu/data/id/lemma/130743
+2	vivus	vivus	ADJ	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epigrammata, Fr. 733, V. 02	http://lila-erc.eu/data/id/lemma/130477
+3	per	per	ADP	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 733, V. 02	http://lila-erc.eu/data/id/lemma/116569
+4	ora	os,oris	NOUN	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Epigrammata, Fr. 733, V. 02	http://lila-erc.eu/data/id/lemma/115327
+5	virum	vir	NOUN	_	Case=Gen|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Epigrammata, Fr. 733, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/130300
+6	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Epigrammata, Fr. 733, V. 02	_
+
+1	Cyprio	Cyprius	ADJ	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Sota, Fr. 734, V. 01	http://lila-erc.eu/data/id/lemma/97498
+2	bovi	bos	NOUN	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Sota, Fr. 734, V. 01	http://lila-erc.eu/data/id/lemma/91797
+3	merendam	merenda	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Sota, Fr. 734, V. 01	http://lila-erc.eu/data/id/lemma/113312
+
+1	Ibant	eo	VERB	_	_	_	_	_	CitationHierarchy=Sota, Fr. 735, V. 01	http://lila-erc.eu/data/id/lemma/101183
+2	malaci	malacus	ADJ	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Sota, Fr. 735, V. 01	http://lila-erc.eu/data/id/lemma/111342
+3	viere	vieo	VERB	_	_	_	_	_	CitationHierarchy=Sota, Fr. 735, V. 01	http://lila-erc.eu/data/id/lemma/130173
+4	Veneriam	Venereus	ADJ	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Sota, Fr. 735, V. 01	http://lila-erc.eu/data/id/lemma/84467
+5	corollam	corolla	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Sota, Fr. 735, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/96638
+6	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Sota, Fr. 735, V. 01	_
+
+1	Alius	alius	DET	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Sota, Fr. 736, V. 01	http://lila-erc.eu/data/id/lemma/88481
+2	in	in	ADP	_	_	_	_	_	CitationHierarchy=Sota, Fr. 736, V. 01	http://lila-erc.eu/data/id/lemma/106748
+3	mari	mare	NOUN	_	Case=Abl|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Sota, Fr. 736, V. 01	http://lila-erc.eu/data/id/lemma/111604
+4	vult	volo,velle	VERB	_	_	_	_	_	CitationHierarchy=Sota, Fr. 736, V. 01	http://lila-erc.eu/data/id/lemma/130746
+5	magno	magnus	ADJ	_	Case=Abl|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Sota, Fr. 736, V. 01	http://lila-erc.eu/data/id/lemma/111319
+6	tenere	tenere	_	_	_	_	_	_	CitationHierarchy=Sota, Fr. 736, V. 01	http://lila-erc.eu/data/id/Lemma/127822
+7	tonsam	tonsa	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Sota, Fr. 736, V. 01	http://lila-erc.eu/data/id/lemma/129445
+
+1	alii	alius	DET	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Sota, Fr. 737, V. 01	http://lila-erc.eu/data/id/lemma/88481
+2	retorica	rhetoricus	ADJ	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Sota, Fr. 737, V. 01	http://lila-erc.eu/data/id/lemma/121457
+3	tongent	tongeo	VERB	_	_	_	_	_	CitationHierarchy=Sota, Fr. 737, V. 01	http://lila-erc.eu/data/id/lemma/128374
+
+1	Ille	ille	DET	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Sota, Fr. 738, V. 01	http://lila-erc.eu/data/id/lemma/106221
+2	ictus	ico	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Sota, Fr. 738, V. 01|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/106061
+3	retro	retro	ADV	_	_	_	_	_	CitationHierarchy=Sota, Fr. 738, V. 01	http://lila-erc.eu/data/id/lemma/121978
+4	reccidit	recido(cado)	VERB	_	Mood=Ind|Voice=Act|Tense=Past|Aspect=Perf|Person=3|Number=Sing	_	_	_	CitationHierarchy=Sota, Fr. 738, V. 01|TraditionalMood=Indicativus|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/122385
+5	in	in	ADP	_	_	_	_	_	CitationHierarchy=Sota, Fr. 738, V. 01	http://lila-erc.eu/data/id/lemma/106748
+6	natem	natis	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Sota, Fr. 738, V. 01	http://lila-erc.eu/data/id/lemma/113416
+7	supinus	supinus	ADJ	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Sota, Fr. 738, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/127003
+8	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Sota, Fr. 738, V. 01	_
+
+1	Ubi	ubi	ADV	_	_	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 739, V. 01	http://lila-erc.eu/data/id/lemma/129639
+2	videt	video	VERB	_	_	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 739, V. 01	http://lila-erc.eu/data/id/lemma/130163
+3	avenam	avena	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 739, V. 01	http://lila-erc.eu/data/id/lemma/90654
+4	lolium	lolium	NOUN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 739, V. 01	http://lila-erc.eu/data/id/lemma/110758
+5	crescere	cresco	VERB	_	_	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 739, V. 01	http://lila-erc.eu/data/id/lemma/96925
+6	inter	inter	ADP	_	_	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 739, V. 01	http://lila-erc.eu/data/id/lemma/108392
+7	triticum	triticum	NOUN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 739, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/129039
+8	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 739, V. 01	_
+
+1	selegit	seligo	VERB	_	_	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 739, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/124069
+2	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 739, V. 02	_
+3	secernit	secerno	VERB	_	_	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 739, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/123947
+4	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 739, V. 02	_
+5	aufert	aufero	VERB	_	_	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 739, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/90671
+6	;	;	PUNCT	_	_	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 739, V. 02	_
+7	sedulo	sedulus	ADJ	_	_	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 739, V. 02	http://lila-erc.eu/data/id/lemma/124024
+8	ubi	ubi	ADV	_	_	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 739, V. 02	http://lila-erc.eu/data/id/lemma/129639
+9	operam	opera	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 739, V. 02	http://lila-erc.eu/data/id/lemma/115016
+10	addidit	addo,ere	VERB	_	_	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 739, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/87401
+11	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 739, V. 02	_
+12	...	...	PUNCT	_	_	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 739, V. 03|SpaceAfter=No	_
+13	quam	qui	PRON	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 739, V. 03	http://lila-erc.eu/data/id/lemma/121354
+14	tanto	tantus	DET	_	Case=Abl|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 739, V. 03	http://lila-erc.eu/data/id/lemma/127630
+15	studio	studium	NOUN	_	Case=Abl|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 739, V. 03	http://lila-erc.eu/data/id/lemma/125889
+16	seruit	sero,sertum	VERB	_	_	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 739, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/124505
+17	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 739, V. 03	_
+
+1	pannibus	pannus	NOUN	_	Gender=Masc	_	_	_	CitationHierarchy=Protrepticus sive Praecepta, Fr. 740, V. 01	http://lila-erc.eu/data/id/lemma/115854
+
+1	Omnibus	omnis	DET	_	Case=Dat|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 01	http://lila-erc.eu/data/id/lemma/114954
+2	at	at	CCONJ	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 01	http://lila-erc.eu/data/id/lemma/87415
+3	Clipea	Clupea	PROPN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 01	http://lila-erc.eu/data/id/lemma/3459
+4	praestat	praesto,are	VERB	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 01	http://lila-erc.eu/data/id/lemma/119246
+5	mustela	mustela	NOUN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 01	http://lila-erc.eu/data/id/lemma/113142
+6	marina	marinus	ADJ	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/111619
+7	;	;	PUNCT	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 01	_
+8	mures	mus	NOUN	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 02	http://lila-erc.eu/data/id/lemma/113106
+9	sunt	sum(verbum)	VERB	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 02	http://lila-erc.eu/data/id/lemma/126689
+10	Aeni	Aenus	PROPN	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/5799
+11	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 02	_
+12	aspra	asper	ADJ	_	Case=Nom|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 02	http://lila-erc.eu/data/id/lemma/90240
+13	ostrea	ostrea	NOUN	_	Case=Nom|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 02	http://lila-erc.eu/data/id/lemma/114801
+14	plurima	plurimus	DET	_	Case=Nom|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 02	http://lila-erc.eu/data/id/lemma/118215
+15	Abudi	Abydus,i	PROPN	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/19555
+16	;	;	PUNCT	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 02	_
+17	Mitulenae	Mytilenae	PROPN	_	Gender=Fem	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 03	http://lila-erc.eu/data/id/lemma/15238
+18	est	sum	VERB	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 03	http://lila-erc.eu/data/id/lemma/126689
+19	pecten	pecten	NOUN	_	Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 03	http://lila-erc.eu/data/id/lemma/116337
+20-21	caradrumque	_	_	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 03	_
+20	caradrum	charadrum	NOUN	_	Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/171079
+21	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 03	http://lila-erc.eu/data/id/lemma/131416
+22	apud	apud	ADP	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 03	http://lila-erc.eu/data/id/lemma/89686
+23	Ambraciai	Ambracia	PROPN	_	Case=Gen|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/13455
+24	;	;	PUNCT	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 03	_
+25	Brundisii	Brundisium	PROPN	_	Gender=Neut	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 04	http://lila-erc.eu/data/id/lemma/1563
+26	sargus	sargus	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 04	http://lila-erc.eu/data/id/lemma/123440
+27	bonus	bonus	ADJ	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 04	http://lila-erc.eu/data/id/lemma/91782
+28	est	sum	VERB	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 04|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/126689
+29	:	:	PUNCT	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 04	_
+30	hunc	hic	DET	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 04	http://lila-erc.eu/data/id/lemma/105455
+31	magnus	magnus	ADJ	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 04	http://lila-erc.eu/data/id/lemma/111319
+32	si	si	SCONJ	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 04	http://lila-erc.eu/data/id/lemma/124676
+33	erit	sum(copula)	VERB	_	Mood=Ind|Voice=Act|Tense=Fut|Aspect=Imp|Person=3|Number=Sing	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 04|TraditionalMood=Indicativus|TraditionalTense=Futurum	http://lila-erc.eu/data/id/lemma/126689
+34	sume	sumo	VERB	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 04|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/126707
+35	;	;	PUNCT	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 04	_
+36	apriculum	apriculus	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 05	http://lila-erc.eu/data/id/lemma/89656
+37	piscem	piscis	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 05	http://lila-erc.eu/data/id/lemma/117941
+38	scito	scio	VERB	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 05	http://lila-erc.eu/data/id/lemma/123732
+39	primum	prae	NOUN	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 05	http://lila-erc.eu/data/id/lemma/72917
+40	esse	sum(verbum)	VERB	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 05	http://lila-erc.eu/data/id/lemma/126689
+41	Tarenti	Tarentum	PROPN	_	Gender=Neut	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 05|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/22860
+42	;	;	PUNCT	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 05	_
+43	Surrenti	Surrentum	PROPN	_	Gender=Neut	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 06	http://lila-erc.eu/data/id/lemma/22566
+44	elopem	helops	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 06	http://lila-erc.eu/data/id/lemma/105271
+45	fac	facio	VERB	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 06	http://lila-erc.eu/data/id/lemma/102758
+46	emas	emo	VERB	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 06	http://lila-erc.eu/data/id/lemma/100998
+47-48	glaucumque	_	_	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 06	_
+47	glaucum	glaucus	ADJ	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 06|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/104663
+48	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 06	http://lila-erc.eu/data/id/lemma/131416
+49	aput	apud	ADP	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 06	http://lila-erc.eu/data/id/lemma/89686
+50	Cumas	Cumae	PROPN	_	Case=Acc|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 06|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/4190
+51	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 06	_
+
+1	Quid	quis(interrogans)	PRON	_	Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 07	http://lila-erc.eu/data/id/lemma/121165
+2	scarus	scarus	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 07|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/123644
+3	?	?	PUNCT	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 07	_
+
+1	Praeterii	praetereo	VERB	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 07	http://lila-erc.eu/data/id/lemma/119293
+2	cerebrum	cerebrum	NOUN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 07	http://lila-erc.eu/data/id/lemma/93527
+3	Iovis	Juppiter	PROPN	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 07	http://lila-erc.eu/data/id/lemma/10964
+4	paene	paene	ADV	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 07	http://lila-erc.eu/data/id/lemma/115620
+5	supremi	supra	ADP	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 07	http://lila-erc.eu/data/id/lemma/127064
+6	(	(	PUNCT	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 08|SpaceAfter=No	_
+7	Nestoris	Nestor	PROPN	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 08	http://lila-erc.eu/data/id/lemma/15728
+8	ad	ad	ADP	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 08	http://lila-erc.eu/data/id/lemma/87344
+9	patriam	patria	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 08	http://lila-erc.eu/data/id/lemma/116250
+10	hic	hic	DET	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 08	http://lila-erc.eu/data/id/lemma/105455
+11	capitur	capio,ere	VERB	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 08	http://lila-erc.eu/data/id/lemma/92686
+12-13	magnusque	_	_	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 08	_
+12	magnus	magnus	ADJ	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 08|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/111319
+13	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 08	http://lila-erc.eu/data/id/lemma/131416
+14-15	bonusque	_	_	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 08|SpaceAfter=No	_
+14	bonus	bonus	ADJ	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 08|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/91782
+15	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 08|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/131416
+16	)	)	PUNCT	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 08|SpaceAfter=No	_
+17	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 08	_
+18	melanurum	melanurus	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 09|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/111877
+19	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 09	_
+20	turdum	turdus	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 09|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/129259
+21	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 09	_
+22-23	merulamque	_	_	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 09	_
+22	merulam	merula	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 09|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/112150
+23	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 09	http://lila-erc.eu/data/id/lemma/131416
+24-25	umbramque	_	_	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 09	_
+24	umbram	umbra	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 09|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/130533
+25	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 09	http://lila-erc.eu/data/id/lemma/131416
+26	marinam	marinus	ADJ	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 09|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/111619
+27	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 09	_
+
+1	Polupus	polypus	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 10	http://lila-erc.eu/data/id/lemma/118360
+2	Corcurae	Corcyra	PROPN	_	Gender=Fem	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 10|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/3863
+3	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 10	_
+4	calvaria	calvarium	NOUN	_	Case=Nom|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 10	http://lila-erc.eu/data/id/lemma/97636
+5	pinguia	pinguis	ADJ	_	Case=Nom|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 10|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/117866
+6	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 10	_
+7	acarnae	acharne,es	NOUN	_	Case=Nom|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 10|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/87216
+8	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 10	_
+9	purpura	purpura	NOUN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 11|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/120557
+10	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 11	_
+11	muriculi	muriculus	NOUN	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 11|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/113078
+12	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 11	_
+13	mures	mus	NOUN	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 11|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/113106
+14	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 11	_
+15	dulces	dulcis	ADJ	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 11	http://lila-erc.eu/data/id/lemma/100227
+16	quoque	quoque	ADV	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 11	http://lila-erc.eu/data/id/hypolemma/110467
+17	ecini	echinus	NOUN	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 11|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/100529
+18	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Hedupagetica, Fr. 741, V. 11	_
+
+1	Nam	nam	ADV	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 742, V. 01	http://lila-erc.eu/data/id/lemma/113344
+2	videbar	video	VERB	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 742, V. 01	http://lila-erc.eu/data/id/lemma/130163
+3	somniare	somnio	VERB	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 742, V. 01	http://lila-erc.eu/data/id/lemma/125124
+4	med	ego	PRON	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 742, V. 01	http://lila-erc.eu/data/id/lemma/100712
+5	ego	ego	PRON	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 742, V. 01	http://lila-erc.eu/data/id/lemma/100712
+6	esse	sum(auxiliaris)	VERB	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 742, V. 01	http://lila-erc.eu/data/id/lemma/126689
+7	mortuum	morior	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 742, V. 01|SpaceAfter=No|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/112796
+8	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 742, V. 01	_
+
+1	Frigori	frigus	NOUN	_	Case=Dat|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Epicarmus, Fr. 743, V. 01	http://lila-erc.eu/data/id/lemma/103819
+2	miscet	misceo	VERB	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 743, V. 01	http://lila-erc.eu/data/id/lemma/112447
+3	calorem	calor	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 743, V. 01	http://lila-erc.eu/data/id/lemma/92418
+4	atque	atque	CCONJ	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 743, V. 01	http://lila-erc.eu/data/id/lemma/90490
+5	humori	humor	NOUN	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 743, V. 01	http://lila-erc.eu/data/id/lemma/130567
+6	aritudinem	aritudo	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Epicarmus, Fr. 743, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/89996
+7	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 743, V. 01	_
+
+1	aqua	aqua	NOUN	_	Gender=Fem	_	_	_	CitationHierarchy=Epicarmus, Fr. 744, V. 01	http://lila-erc.eu/data/id/lemma/89692
+2	terra	terra	NOUN	_	Gender=Fem	_	_	_	CitationHierarchy=Epicarmus, Fr. 744, V. 01	http://lila-erc.eu/data/id/lemma/127912
+3	anima	anima	NOUN	_	Gender=Fem	_	_	_	CitationHierarchy=Epicarmus, Fr. 744, V. 01	http://lila-erc.eu/data/id/lemma/89075
+4	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 744, V. 01	http://lila-erc.eu/data/id/lemma/101542
+5	sol	sol	NOUN	_	Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 744, V. 01	http://lila-erc.eu/data/id/lemma/125027
+
+1	Terris	terra	NOUN	_	Case=Dat|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Epicarmus, Fr. 745, V. 01	http://lila-erc.eu/data/id/lemma/127912
+2	gentis	gens	NOUN	_	Case=Acc|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Epicarmus, Fr. 745, V. 01	http://lila-erc.eu/data/id/lemma/104490
+3	omnis	omnis	DET	_	Case=Acc|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Epicarmus, Fr. 745, V. 01	http://lila-erc.eu/data/id/lemma/114954
+4	peperit	pario	VERB	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 745, V. 01	http://lila-erc.eu/data/id/lemma/116052
+5	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 745, V. 01	http://lila-erc.eu/data/id/lemma/101542
+6	resumit	resumo	VERB	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 745, V. 01	http://lila-erc.eu/data/id/lemma/122758
+7	denuo	denuo(adv.)	ADV	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 745, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/98659
+8	;	;	PUNCT	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 745, V. 01	_
+9	...	...	PUNCT	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 745, V. 02|SpaceAfter=No	_
+10	dat	do	VERB	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 745, V. 02	http://lila-erc.eu/data/id/lemma/99970
+11	cibaria	cibarius,a,um	ADJ	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Epicarmus, Fr. 745, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/93916
+12	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 745, V. 02	_
+13	...	...	PUNCT	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 745, V. 03|SpaceAfter=No	_
+14	quod	quod	SCONJ	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 745, V. 03	http://lila-erc.eu/data/id/lemma/74854
+15	gerit	gero	VERB	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 745, V. 03	http://lila-erc.eu/data/id/lemma/104536
+16	fruges	frux	NOUN	_	Case=Acc|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Epicarmus, Fr. 745, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/103907
+17	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 745, V. 03	_
+18	Ceres	Ceres	PROPN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Epicarmus, Fr. 745, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/2820
+19	;	;	PUNCT	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 745, V. 03	_
+
+1	terra	terra	NOUN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Epicarmus, Fr. 746, V. 01	http://lila-erc.eu/data/id/lemma/127912
+2	corpus	corpus	NOUN	_	Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Epicarmus, Fr. 746, V. 01	http://lila-erc.eu/data/id/lemma/96667
+3	est	sum	VERB	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 746, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/126689
+4	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 746, V. 01	_
+5	at	at	CCONJ	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 746, V. 01	http://lila-erc.eu/data/id/lemma/87415
+6	mentis	mens	NOUN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Epicarmus, Fr. 746, V. 01	http://lila-erc.eu/data/id/lemma/112038
+7	ignis	ignis	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 746, V. 01	http://lila-erc.eu/data/id/lemma/106156
+8	est	sum	VERB	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 746, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/126689
+9	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 746, V. 01	_
+
+1	Istic	istic,aec,uc	DET	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 747, V. 01	http://lila-erc.eu/data/id/lemma/109122
+2	est	sum	VERB	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 747, V. 01	http://lila-erc.eu/data/id/lemma/126689
+3	de	de	ADP	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 747, V. 01	http://lila-erc.eu/data/id/lemma/97932
+4	sole	sol	NOUN	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 747, V. 01	http://lila-erc.eu/data/id/lemma/125027
+5	sumptus	sumo	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 747, V. 01|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/126707
+6	ignis	ignis	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 747, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/106156
+7	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 747, V. 01	_
+
+1-2	isque	_	_	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 748, V. 01	_
+1	is	is	DET	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 748, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/109083
+2	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 748, V. 01	http://lila-erc.eu/data/id/lemma/131416
+3	totus	totus	_	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 748, V. 01	http://lila-erc.eu/data/id/Lemma/128484
+4	mentis	mens	NOUN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Epicarmus, Fr. 748, V. 01	http://lila-erc.eu/data/id/lemma/112038
+5	est	sum	VERB	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 748, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/126689
+6	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 748, V. 01	_
+
+1	Istic	istic,aec,uc	DET	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 01	http://lila-erc.eu/data/id/lemma/109122
+2	est	sum	VERB	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 01	http://lila-erc.eu/data/id/lemma/126689
+3	is	is	DET	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 01	http://lila-erc.eu/data/id/lemma/109083
+4	Iupiter	Juppiter	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 01	http://lila-erc.eu/data/id/lemma/10964
+5	quem	qui	PRON	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 01	http://lila-erc.eu/data/id/lemma/121354
+6	dico	dico	VERB	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/99302
+7	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 01	_
+8	quem	qui	PRON	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 01	http://lila-erc.eu/data/id/lemma/121354
+9	Graeci	Graecia	PROPN	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 01	http://lila-erc.eu/data/id/lemma/8321
+10	vocant	voco	VERB	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 01	http://lila-erc.eu/data/id/lemma/130729
+11	aerem	aer	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 02	http://lila-erc.eu/data/id/lemma/87873
+12	qui	qui	PRON	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 02	http://lila-erc.eu/data/id/lemma/121354
+13	ventus	ventus,i	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 02	http://lila-erc.eu/data/id/lemma/129820
+14	est	sum	VERB	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 02	http://lila-erc.eu/data/id/lemma/126689
+15	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 02	http://lila-erc.eu/data/id/lemma/101542
+16	nubes	nubes	NOUN	_	Case=Nom|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/113910
+17	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 02	_
+18	imber	imber	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 02	http://lila-erc.eu/data/id/lemma/106330
+19	postea	postea	ADV	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/118575
+20	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 02	_
+21	atque	atque	CCONJ	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 03	http://lila-erc.eu/data/id/lemma/90490
+22	ex	ex	ADP	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 03	http://lila-erc.eu/data/id/lemma/101716
+23	imbre	imber	NOUN	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 03	http://lila-erc.eu/data/id/lemma/106330
+24	frigus	frigus	NOUN	_	Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/103819
+25	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 03	_
+26	ventus	ventus,i	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 03	http://lila-erc.eu/data/id/lemma/129820
+27	post	post	ADV	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 03	http://lila-erc.eu/data/id/lemma/118573
+28	fit	facio	VERB	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/102758
+29	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 03	_
+30	aer	aer	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 03	http://lila-erc.eu/data/id/lemma/87873
+31	denuo	denuo(adv.)	ADV	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/98659
+32	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 03	_
+
+1	Haec	hic	DET	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 04	http://lila-erc.eu/data/id/lemma/105455
+2	propter<ea>	propterea	ADV	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 04	http://lila-erc.eu/data/id/lemma/120712
+3	Iupiter	Juppiter	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 04	http://lila-erc.eu/data/id/lemma/10964
+4	sunt	sum	VERB	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 04	http://lila-erc.eu/data/id/lemma/126689
+5	ista	iste	DET	_	Case=Nom|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 04	http://lila-erc.eu/data/id/lemma/109122
+6	quae	qui	PRON	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 04	http://lila-erc.eu/data/id/lemma/121354
+7	dico	dico	VERB	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 04	http://lila-erc.eu/data/id/lemma/99302
+8	tibi	tu	PRON	_	Case=Dat|Number=Sing	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 04|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/129131
+9	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 04	_
+10	qua	qui	PRON	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 05	http://lila-erc.eu/data/id/lemma/121354
+11	mortalis	mortalis	ADJ	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 05	http://lila-erc.eu/data/id/lemma/112813
+12	atque	atque	CCONJ	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 05	http://lila-erc.eu/data/id/lemma/90490
+13	urbes	urbs	NOUN	_	Case=Acc|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 05	http://lila-erc.eu/data/id/lemma/130822
+14-15	beluasque	_	_	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 05	_
+14	beluas	bellua	NOUN	_	Case=Acc|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 05|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/91376
+15	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 05	http://lila-erc.eu/data/id/lemma/131416
+16	omnis	omnis	DET	_	Case=Acc|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 05	http://lila-erc.eu/data/id/lemma/114954
+17	iuvat	juvo	VERB	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 05|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/109294
+18	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Epicarmus, Fr. 749, V. 05	_
+
+1	Initio	initium	NOUN	_	Case=Abl|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 751, V. 01	http://lila-erc.eu/data/id/lemma/107903
+2	primus	prae	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 751, V. 01	http://lila-erc.eu/data/id/lemma/72917
+3	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 751, V. 01	http://lila-erc.eu/data/id/lemma/106748
+4	terris	terra	NOUN	_	Case=Abl|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 751, V. 01	http://lila-erc.eu/data/id/lemma/127912
+5	imperium	imperium	NOUN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 751, V. 01	http://lila-erc.eu/data/id/lemma/106532
+6	summum	superus	ADJ	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 751, V. 01	http://lila-erc.eu/data/id/lemma/126999
+7	Caelus	Caelum/us	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 751, V. 01	http://lila-erc.eu/data/id/lemma/1902
+8	habuit	habeo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 751, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/105044
+9	;	;	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 751, V. 01	_
+10	is	is	DET	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 751, V. 02	http://lila-erc.eu/data/id/lemma/109083
+11	id	is	DET	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 751, V. 02	http://lila-erc.eu/data/id/lemma/109083
+12	regnum	regnum	NOUN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 751, V. 02	http://lila-erc.eu/data/id/lemma/121683
+13	una	unus	DET	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 751, V. 02	http://lila-erc.eu/data/id/lemma/85636
+14	cum	cum	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 751, V. 02	http://lila-erc.eu/data/id/lemma/97202
+15	fratribus	frater	NOUN	_	Case=Abl|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 751, V. 02	http://lila-erc.eu/data/id/lemma/103739
+16	suis	suus	DET	_	Case=Abl|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 751, V. 02	http://lila-erc.eu/data/id/lemma/127165
+17	sibi	se	PRON	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 751, V. 02	http://lila-erc.eu/data/id/lemma/123932
+18	instituit	instituo	VERB	_	Mood=Ind|Voice=Act|Tense=Past|Aspect=Perf|Person=3|Number=Sing	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 751, V. 02|TraditionalMood=Indicativus|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/108268
+19	atque	atque	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 751, V. 02	http://lila-erc.eu/data/id/lemma/90490
+20	paravit	paro,are	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 751, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/116061
+21	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 751, V. 03	_
+
+1	Caelo	Caelum/us	PROPN	_	Case=Dat|Number=Sing	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 752, V. 01	http://lila-erc.eu/data/id/lemma/1902
+2	avo	avus	NOUN	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 752, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/90862
+3	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 752, V. 01	_
+4	quem	qui	PRON	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 752, V. 01	http://lila-erc.eu/data/id/lemma/121354
+5	dicit	dico	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 752, V. 01	http://lila-erc.eu/data/id/lemma/99302
+6	Euhemerus	Euhemerus	ADJ	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 752, V. 01	http://lila-erc.eu/data/id/lemma/6587
+7	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 752, V. 01	http://lila-erc.eu/data/id/lemma/106748
+8	Oceanide	Oceania	PROPN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 752, V. 01	http://lila-erc.eu/data/id/lemma/16236
+9	mortuum	morior	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 752, V. 01|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/112796
+10	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 752, V. 02	http://lila-erc.eu/data/id/lemma/101542
+11	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 752, V. 02	http://lila-erc.eu/data/id/lemma/106748
+12	oppido	oppidum	NOUN	_	Case=Abl|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 752, V. 02	http://lila-erc.eu/data/id/lemma/115116
+13	Huracia	Hyrakia	NOUN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 752, V. 02	http://lila-erc.eu/data/id/lemma/171080
+14	sepultum	sepelio	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 752, V. 02|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/124372
+
+1	Exim	exinde	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 01	http://lila-erc.eu/data/id/lemma/102052
+2	Saturnus	Saturnus	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 01	http://lila-erc.eu/data/id/lemma/20942
+3	uxorem	uxor	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 01	http://lila-erc.eu/data/id/lemma/130980
+4	duxit	duco	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 01	http://lila-erc.eu/data/id/lemma/100196
+5	Opem	Ops	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/115146
+6	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 01	_
+
+1	Titan	Titan	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 01	http://lila-erc.eu/data/id/lemma/23786
+2	qui	qui	PRON	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 01	http://lila-erc.eu/data/id/lemma/121354
+3	maior	major	ADJ	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 01	http://lila-erc.eu/data/id/lemma/111328
+4	natu	natu	NOUN	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 02	http://lila-erc.eu/data/id/lemma/141542
+5	erat	sum(copula)	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 02	http://lila-erc.eu/data/id/lemma/126689
+6	postulat	postulo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 02	http://lila-erc.eu/data/id/lemma/118629
+7	ut	ut	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 02	http://lila-erc.eu/data/id/lemma/130906
+8	ipse	ipse	DET	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 02	http://lila-erc.eu/data/id/lemma/108945
+9	regnaret	regno	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/122541
+10	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 02	_
+
+1	Ibi	ibi	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 02	http://lila-erc.eu/data/id/lemma/106053
+2	Vesta	Vesta	PROPN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 02	http://lila-erc.eu/data/id/lemma/24969
+3	mater	mater	NOUN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 02	http://lila-erc.eu/data/id/lemma/111688
+4	eorum	is	DET	_	Case=Gen|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 02	http://lila-erc.eu/data/id/lemma/109083
+5	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 03	http://lila-erc.eu/data/id/lemma/101542
+6	sorores	soror	NOUN	_	Case=Nom|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 03	http://lila-erc.eu/data/id/lemma/125195
+7	Ceres	Ceres	PROPN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 03	http://lila-erc.eu/data/id/lemma/2820
+8	atque	atque	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 03	http://lila-erc.eu/data/id/lemma/90490
+9	Ops	Ops	NOUN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 03	http://lila-erc.eu/data/id/lemma/115146
+10	suadent	suadeo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 03	http://lila-erc.eu/data/id/lemma/125928
+11	Saturno	Saturnus	PROPN	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 03	http://lila-erc.eu/data/id/lemma/20942
+12	uti	ut	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 03	http://lila-erc.eu/data/id/lemma/130906
+13	de	de	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 03	http://lila-erc.eu/data/id/lemma/97932
+14	regno	regnum	NOUN	_	Case=Abl|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 03	http://lila-erc.eu/data/id/lemma/121683
+15	ne	ne	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 04	http://lila-erc.eu/data/id/lemma/113491
+16	concedat	concedo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 04	http://lila-erc.eu/data/id/lemma/95456
+17	fratri	frater	NOUN	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 04|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/103739
+18	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 04	_
+
+1	Ibi	ibi	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 04	http://lila-erc.eu/data/id/lemma/106053
+2	Titan	Titan	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 04	http://lila-erc.eu/data/id/lemma/23786
+3	qui	qui	PRON	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 04	http://lila-erc.eu/data/id/lemma/121354
+4	facie	facies	NOUN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 04	http://lila-erc.eu/data/id/lemma/102752
+5	deterior	de	ADP	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 04	http://lila-erc.eu/data/id/lemma/97932
+6	esset	sum(copula)	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 04	http://lila-erc.eu/data/id/lemma/126689
+7	quam	qua	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 05	http://lila-erc.eu/data/id/Hypolemma/110471
+8	Saturnus	Saturnus	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 05|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/20942
+9	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 05	_
+10	idcirco	idcirco	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 05	http://lila-erc.eu/data/id/lemma/106080
+11	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 05	http://lila-erc.eu/data/id/lemma/101542
+12	quod	quod	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 05	http://lila-erc.eu/data/id/lemma/74854
+13	videbat	video	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 05	http://lila-erc.eu/data/id/lemma/130163
+14	matrem	mater	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 05	http://lila-erc.eu/data/id/lemma/111688
+15	atque	atque	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 05	http://lila-erc.eu/data/id/lemma/90490
+16	sorores	soror	NOUN	_	Case=Acc|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 06	http://lila-erc.eu/data/id/lemma/125195
+17	suas	suus	DET	_	Case=Acc|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 06	http://lila-erc.eu/data/id/lemma/127165
+18	operam	opera	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 06	http://lila-erc.eu/data/id/lemma/115016
+19	dare	do	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 06	http://lila-erc.eu/data/id/lemma/99970
+20	uti	ut	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 06	http://lila-erc.eu/data/id/lemma/130906
+21	Saturnus	Saturnus	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 06	http://lila-erc.eu/data/id/lemma/20942
+22	regnaret	regno	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 06|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/122541
+23	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 06	_
+24	concessit	concedo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 06	http://lila-erc.eu/data/id/lemma/95456
+25	ei	is	DET	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 07	http://lila-erc.eu/data/id/lemma/109083
+26	ut	ut	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 07	http://lila-erc.eu/data/id/lemma/130906
+27	is	is	DET	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 07	http://lila-erc.eu/data/id/lemma/109083
+28	regnaret	regno	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 07|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/122541
+29	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 07	_
+
+1	Itaque	itaque	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 07	http://lila-erc.eu/data/id/lemma/109129
+2	pactus	paciscor	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 07|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/115589
+3	est	sum	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 07	http://lila-erc.eu/data/id/lemma/126689
+4	cum	cum	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 07	http://lila-erc.eu/data/id/lemma/97202
+5	Saturno	Saturnus	PROPN	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 07	http://lila-erc.eu/data/id/lemma/20942
+6	uti	ut	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 07	http://lila-erc.eu/data/id/lemma/130906
+7	si	si	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 07	http://lila-erc.eu/data/id/lemma/124676
+8	quid	quis(infinitus)	PRON	_	Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 08	http://lila-erc.eu/data/id/lemma/121165
+9	liberum	liberi	NOUN	_	Case=Gen|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 08	http://lila-erc.eu/data/id/lemma/109917
+10	virile	virilis	ADJ	_	Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 08	http://lila-erc.eu/data/id/lemma/130345
+11	secus	secus(sexus)	NOUN	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 08	http://lila-erc.eu/data/id/lemma/127411
+12	ei	is	DET	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 08	http://lila-erc.eu/data/id/lemma/109083
+13	natum	nascor	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 08|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/113387
+14	esset	sum(auxiliaris)	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 08|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/126689
+15	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 08	_
+16	ne	ne	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 08	http://lila-erc.eu/data/id/lemma/113491
+17	quid	quis(infinitus)	PRON	_	Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 08	http://lila-erc.eu/data/id/lemma/121165
+18	educaret	educo,are	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 08|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/100589
+19	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 08	_
+
+1	Id	is	DET	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 09	http://lila-erc.eu/data/id/lemma/109083
+2	eius	is	DET	_	Case=Gen|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 09	http://lila-erc.eu/data/id/lemma/109083
+3	rei	res	NOUN	_	Case=Gen|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 09	http://lila-erc.eu/data/id/lemma/121868
+4	causa	causa	NOUN	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 09	http://lila-erc.eu/data/id/lemma/93253
+5	fecit	facio	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 09	http://lila-erc.eu/data/id/lemma/102758
+6	uti	ut	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 09	http://lila-erc.eu/data/id/lemma/130906
+7	ad	ad	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 09	http://lila-erc.eu/data/id/lemma/87344
+8	suos	suus	DET	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 09	http://lila-erc.eu/data/id/lemma/127165
+9	gnatos	gnatus	NOUN	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 09	http://lila-erc.eu/data/id/lemma/113389
+10	regnum	regnum	NOUN	_	Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 09	http://lila-erc.eu/data/id/lemma/121683
+11	rediret	redeo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 09|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/122463
+12	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 09	_
+
+1	Tum	tum	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 10	http://lila-erc.eu/data/id/lemma/129198
+2	Saturno	Saturnus	PROPN	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 10	http://lila-erc.eu/data/id/lemma/20942
+3	filius	filius	ADJ	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 10	http://lila-erc.eu/data/id/lemma/52185
+4	qui	qui	PRON	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 10	http://lila-erc.eu/data/id/lemma/121354
+5	primus	prae	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 10	http://lila-erc.eu/data/id/lemma/72917
+6	natus	nascor	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 10|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/113387
+7	est	sum	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 10|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/126689
+8	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 10	_
+9	eum	is	DET	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 10	http://lila-erc.eu/data/id/lemma/109083
+10	necaverunt	neco	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 10|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/113514
+11	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 10	_
+
+1	Deinde	deinde	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 11	http://lila-erc.eu/data/id/lemma/98386
+2	posterius	post	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 11	http://lila-erc.eu/data/id/lemma/118573
+3	nati	nascor	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 11|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/113387
+4	sunt	sum(auxiliaris)	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 11	http://lila-erc.eu/data/id/lemma/126689
+5	gemini	geminus	ADJ	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 11|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/104417
+6	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 11	_
+7	Iuppiter	Juppiter	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 11	http://lila-erc.eu/data/id/lemma/10964
+8	atque	atque	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 11	http://lila-erc.eu/data/id/lemma/90490
+9	Iuno	Juno	PROPN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 11|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/10962
+10	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 11	_
+
+1	Tum	tum	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 12	http://lila-erc.eu/data/id/lemma/129198
+2	Iunonem	Juno	PROPN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 12	http://lila-erc.eu/data/id/lemma/10962
+3	Saturno	Saturnus	PROPN	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 12	http://lila-erc.eu/data/id/lemma/20942
+4	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 12	http://lila-erc.eu/data/id/lemma/106748
+5	conspectum	conspectus,us	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 12	http://lila-erc.eu/data/id/lemma/97741
+6	dedere	do	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 12	http://lila-erc.eu/data/id/lemma/99970
+7	atque	atque	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 12	http://lila-erc.eu/data/id/lemma/90490
+8	Iovem	Juppiter	PROPN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 13	http://lila-erc.eu/data/id/lemma/10964
+9	clam	clam	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 13	http://lila-erc.eu/data/id/lemma/94405
+10	abscondunt	abscondo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 13	http://lila-erc.eu/data/id/lemma/86994
+11-12	dantque	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 13	_
+11	dant	do	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 13|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/99970
+12	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 13	http://lila-erc.eu/data/id/lemma/131416
+13	eum	is	DET	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 13	http://lila-erc.eu/data/id/lemma/109083
+14	Vestae	Vesta	PROPN	_	Case=Dat|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 13	http://lila-erc.eu/data/id/lemma/24969
+15	educandum	educo,are	VERB	_	VerbForm=Gdv|Voice=Pass|Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 13|TraditionalMood=Gerundivum	http://lila-erc.eu/data/id/lemma/100589
+16	celantes	celo,are	VERB	_	VerbForm=Part|Voice=Act|Tense=Pres|Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 14|TraditionalMood=Participium|TraditionalTense=Praesens	http://lila-erc.eu/data/id/lemma/93353
+17	Saturnum	Saturnus	PROPN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 14|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/20942
+18	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 14	_
+
+1	Item	item	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 14	http://lila-erc.eu/data/id/lemma/109131
+2	Neptunum	Neptunus	PROPN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 14	http://lila-erc.eu/data/id/lemma/15642
+3	clam	clam	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 14	http://lila-erc.eu/data/id/lemma/94405
+4	Saturno	Saturnus	PROPN	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 14	http://lila-erc.eu/data/id/lemma/20942
+5	Ops	Ops	NOUN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 14	http://lila-erc.eu/data/id/lemma/115146
+6	parit	pario	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 15	http://lila-erc.eu/data/id/lemma/116052
+7-8	eumque	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 15	_
+7	eum	is	DET	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 15|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/109083
+8	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 15	http://lila-erc.eu/data/id/lemma/131416
+9	clanculum	clam	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 15	http://lila-erc.eu/data/id/lemma/94405
+10	abscondit	abscondo	VERB	_	Mood=Ind|Voice=Act|Tense=Pres|Person=3|Number=Sing	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 15|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens	http://lila-erc.eu/data/id/lemma/86994
+11	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 15	_
+
+1	Ad	ad	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 15	http://lila-erc.eu/data/id/lemma/87344
+2	eundem	idem	DET	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 15	http://lila-erc.eu/data/id/lemma/109082
+3	modum	modus	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 15	http://lila-erc.eu/data/id/lemma/112553
+4	tertio	tertius	ADJ	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 16	http://lila-erc.eu/data/id/lemma/127957
+5	partu	partus,us	NOUN	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 16	http://lila-erc.eu/data/id/lemma/120853
+6	Ops	Ops	NOUN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 16	http://lila-erc.eu/data/id/lemma/115146
+7	parit	pario	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 16	http://lila-erc.eu/data/id/lemma/116052
+8	geminos	geminus	ADJ	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 16	http://lila-erc.eu/data/id/lemma/104417
+9	Plutonem	Pluto	PROPN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 16	http://lila-erc.eu/data/id/lemma/18959
+10	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 16	http://lila-erc.eu/data/id/lemma/101542
+11	Glaucam	Glaucus	PROPN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 16|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/138594
+12	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 16	_
+
+1	Pluto	Pluto	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 17	http://lila-erc.eu/data/id/lemma/18959
+2	Latine	Latinus,a,um	PROPN	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 17	http://lila-erc.eu/data/id/lemma/11461
+3	est	sum	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 17	http://lila-erc.eu/data/id/lemma/126689
+4	Dis	Dis	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 17	http://lila-erc.eu/data/id/lemma/5075
+5	pater	pater	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 17|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/116203
+6	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 17	_
+7	alii	alius	DET	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 17	http://lila-erc.eu/data/id/lemma/88481
+8	Orcum	Orcus	PROPN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 17	http://lila-erc.eu/data/id/lemma/16814
+9	vocant	voco	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 17|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/130729
+10	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 17	_
+
+1	Ibi	ibi	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 17	http://lila-erc.eu/data/id/lemma/106053
+2	filiam	filia	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 17	http://lila-erc.eu/data/id/lemma/103296
+3	Glaucam	Glaucus	PROPN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 18	http://lila-erc.eu/data/id/lemma/138594
+4	Saturno	Saturnus	PROPN	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 18	http://lila-erc.eu/data/id/lemma/20942
+5	ostendunt	ostendo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 18|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/115363
+6	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 18	_
+7	at	at	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 18	http://lila-erc.eu/data/id/lemma/87415
+8	filium	filius	ADJ	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 18	http://lila-erc.eu/data/id/lemma/52185
+9	Plutonem	Pluto	PROPN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 18	http://lila-erc.eu/data/id/lemma/18959
+10	celant	celo,are	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 18	http://lila-erc.eu/data/id/lemma/93353
+11	atque	atque	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 19	http://lila-erc.eu/data/id/lemma/90490
+12	abscondunt	abscondo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 19|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/86994
+13	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 19	_
+
+1	Deinde	deinde	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 19	http://lila-erc.eu/data/id/lemma/98386
+2	Glauca	Glaucus	PROPN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 19	http://lila-erc.eu/data/id/lemma/138594
+3	parva	parvus	ADJ	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 19	http://lila-erc.eu/data/id/lemma/116136
+4	emoritur	emorior	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 19|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/101009
+5	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 19	_
+
+1	Haec	hic	DET	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 19	http://lila-erc.eu/data/id/lemma/105455
+2	ut	ut	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 20	http://lila-erc.eu/data/id/lemma/130906
+3	scripta	scribo	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Nom|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 20|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/123840
+4	sunt	sum	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 20	http://lila-erc.eu/data/id/lemma/126689
+5	Iovis	Juppiter	PROPN	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 20	http://lila-erc.eu/data/id/lemma/10964
+6-7	fratrumque	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 20	_
+6	fratrum	frater	NOUN	_	Case=Gen|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 20|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/103739
+7	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 20	http://lila-erc.eu/data/id/lemma/131416
+8	eius	is	DET	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 20	http://lila-erc.eu/data/id/lemma/109083
+9	stirps	stirps	NOUN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 20	http://lila-erc.eu/data/id/lemma/125733
+10	atque	atque	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 20	http://lila-erc.eu/data/id/lemma/90490
+11	cognatio	cognatio	NOUN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 21|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/94720
+12	:	:	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 21	_
+13	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 21	http://lila-erc.eu/data/id/lemma/106748
+14	hunc	hic	DET	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 21	http://lila-erc.eu/data/id/lemma/105455
+15	modum	modus	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 21	http://lila-erc.eu/data/id/lemma/112553
+16	nobis	nos	PRON	_	Case=Dat|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 21	http://lila-erc.eu/data/id/hypolemma/110487
+17	ex	ex	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 21	http://lila-erc.eu/data/id/lemma/101716
+18	sacra	sacer	ADJ	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 21	http://lila-erc.eu/data/id/lemma/123063
+19	scriptione	scriptio	NOUN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 21	http://lila-erc.eu/data/id/lemma/123845
+20	traditum	trado	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 21|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/128519
+21	est	sum	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 22|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/126689
+22	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 753, V. 22	_
+
+1	Deinde	deinde	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 01	http://lila-erc.eu/data/id/lemma/98386
+2	Titan	Titan	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 01	http://lila-erc.eu/data/id/lemma/23786
+3	postquam	postquam	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 01	http://lila-erc.eu/data/id/lemma/120753
+4	rescivit	rescisco	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 01	http://lila-erc.eu/data/id/lemma/121723
+5	Saturno	Saturnus	PROPN	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 01	http://lila-erc.eu/data/id/lemma/20942
+6	filios	filius	ADJ	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 01	http://lila-erc.eu/data/id/lemma/52185
+7	procreatos	procreo	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 01|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/119625
+8	atque	atque	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 02	http://lila-erc.eu/data/id/lemma/90490
+9	educatos	educo,are	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 02|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/100589
+10	esse	sum(auxiliaris)	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 02	http://lila-erc.eu/data/id/lemma/126689
+11	clam	clam	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 02	http://lila-erc.eu/data/id/lemma/94405
+12	se	se	PRON	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/123932
+13	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 02	_
+14	seducit	seduco	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 02	http://lila-erc.eu/data/id/lemma/124015
+15-16	secum	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 02	_
+15	se	se	PRON	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/123932
+15	se	se	PRON	_	Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/123932
+16	cum	cum	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 02	http://lila-erc.eu/data/id/lemma/97202
+17	filios	filius	ADJ	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 02	http://lila-erc.eu/data/id/lemma/52185
+18	suos	suus	DET	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 02	http://lila-erc.eu/data/id/lemma/127165
+19	qui	qui	PRON	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 02	http://lila-erc.eu/data/id/lemma/121354
+20	Titani	Titan	PROPN	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 03	http://lila-erc.eu/data/id/lemma/23786
+21	vocantur	voco	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/130729
+22	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 03	_
+23-24	fratremque	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 03	_
+23	fratrem	frater	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/103739
+24	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 03	http://lila-erc.eu/data/id/lemma/131416
+25	suum	suus	DET	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 03	http://lila-erc.eu/data/id/lemma/127165
+26	Saturnum	Saturnus	PROPN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 03	http://lila-erc.eu/data/id/lemma/20942
+27	atque	atque	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 03	http://lila-erc.eu/data/id/lemma/90490
+28	Opem	Ops	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 03	http://lila-erc.eu/data/id/lemma/115146
+29	conprehendit	comprehendo	VERB	_	Mood=Ind|Voice=Act|Tense=Pres|Person=3|Number=Sing	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 04|TraditionalMood=Indicativus|TraditionalTense=Praesens	http://lila-erc.eu/data/id/lemma/95381
+30-31	eosque	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 04	_
+30	eos	is	DET	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 04|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/109083
+31	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 04	http://lila-erc.eu/data/id/lemma/131416
+32	muro	murus	NOUN	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 04	http://lila-erc.eu/data/id/lemma/113105
+33	circumegit	circumago	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 04	http://lila-erc.eu/data/id/lemma/94069
+34	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 04	http://lila-erc.eu/data/id/lemma/101542
+35	custodiam	custodia	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 04	http://lila-erc.eu/data/id/lemma/97390
+36	his	hic	DET	_	Case=Dat|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 04	http://lila-erc.eu/data/id/lemma/105455
+37	apponit	appono	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 05|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/89613
+38	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 754, V. 05	_
+
+1	Iovem	Juppiter	PROPN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 01	http://lila-erc.eu/data/id/lemma/10964
+2	adultum	adolesco	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 01|SpaceAfter=No|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/87605
+3	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 01	_
+4	cum	cum	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 01	http://lila-erc.eu/data/id/lemma/97202
+5	audisset	audio	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 01	http://lila-erc.eu/data/id/lemma/90641
+6	patrem	pater	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 01	http://lila-erc.eu/data/id/lemma/116203
+7	atque	atque	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 01	http://lila-erc.eu/data/id/lemma/90490
+8	matrem	mater	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 01	http://lila-erc.eu/data/id/lemma/111688
+9	custodiis	custodia	NOUN	_	Case=Abl|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 02	http://lila-erc.eu/data/id/lemma/97390
+10	circumsaeptos	circumsaepio	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 02|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/94225
+11	atque	atque	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 02	http://lila-erc.eu/data/id/lemma/90490
+12	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 02	http://lila-erc.eu/data/id/lemma/106748
+13	vincula	vinculum	NOUN	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 02	http://lila-erc.eu/data/id/lemma/130236
+14	coniectos	conjicio	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 02|SpaceAfter=No|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/95917
+15	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 02	_
+16	venisse	venio	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 03	http://lila-erc.eu/data/id/lemma/129790
+17	cum	cum	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 03	http://lila-erc.eu/data/id/lemma/97202
+18	magna	magnus	ADJ	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 03	http://lila-erc.eu/data/id/lemma/111319
+19	Cretensium	Cretes	PROPN	_	Case=Gen|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 03	http://lila-erc.eu/data/id/lemma/4074
+20	multitudine	multitudo	NOUN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 03	http://lila-erc.eu/data/id/lemma/112987
+21-22	Titanumque	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 03	_
+21	Titanum	Titan	PROPN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/23786
+22	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 03	http://lila-erc.eu/data/id/lemma/131416
+23	ac	atque	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 04	http://lila-erc.eu/data/id/lemma/90490
+24	filios	filius	ADJ	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 04	http://lila-erc.eu/data/id/lemma/52185
+25	eius	is	DET	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 04	http://lila-erc.eu/data/id/lemma/109083
+26	pugna	pugna	NOUN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 04	http://lila-erc.eu/data/id/lemma/120407
+27	vicisse	vinco	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 04|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/130232
+28	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 04	_
+29	parentes	parens	NOUN	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 04	http://lila-erc.eu/data/id/lemma/116020
+30	vinculis	vinculum	NOUN	_	Case=Abl|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 04	http://lila-erc.eu/data/id/lemma/130236
+31	exemisse	eximo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 04|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/102048
+32	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 04	_
+33	patri	pater	NOUN	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 05	http://lila-erc.eu/data/id/lemma/116203
+34	regnum	regnum	NOUN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 05	http://lila-erc.eu/data/id/lemma/121683
+35	reddidisse	reddo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 05	http://lila-erc.eu/data/id/lemma/122458
+36	atque	atque	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 05	http://lila-erc.eu/data/id/lemma/90490
+37	ita	ita	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 05	http://lila-erc.eu/data/id/lemma/109126
+38	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 05	http://lila-erc.eu/data/id/lemma/106748
+39	Cretam	Creta	PROPN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 05	http://lila-erc.eu/data/id/lemma/4071
+40	remeasse	remeo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 05|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/122595
+41	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 05	_
+
+1	Post	post	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 06	http://lila-erc.eu/data/id/lemma/118573
+2	haec	hic	DET	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 06	http://lila-erc.eu/data/id/lemma/105455
+3	deinde	deinde	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 06	http://lila-erc.eu/data/id/lemma/98386
+4	Saturno	Saturnus	PROPN	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 06	http://lila-erc.eu/data/id/lemma/20942
+5	sortem	sors	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 06	http://lila-erc.eu/data/id/lemma/125204
+6	datam	do	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 06|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/99970
+7	ut	ut	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 06	http://lila-erc.eu/data/id/lemma/130906
+8	caveret	caveo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 06	http://lila-erc.eu/data/id/lemma/93200
+9	ne	ne	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 06	http://lila-erc.eu/data/id/lemma/113491
+10	filius	filius	ADJ	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 07	http://lila-erc.eu/data/id/lemma/52185
+11	eum	is	DET	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 07	http://lila-erc.eu/data/id/lemma/109083
+12	regnum	regnum	NOUN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 07	http://lila-erc.eu/data/id/lemma/121683
+13	expelleret	expello	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 07|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/102151
+14	;	;	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 07	_
+15	illum	ille	DET	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 07	http://lila-erc.eu/data/id/lemma/106221
+16	elevandae	elevo	VERB	_	VerbForm=Gdv|Voice=Pass|Case=Gen|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 07|TraditionalMood=Gerundivum	http://lila-erc.eu/data/id/lemma/100819
+17	sortis	sors	NOUN	_	Case=Gen|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 07	http://lila-erc.eu/data/id/lemma/125204
+18	atque	atque	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 07	http://lila-erc.eu/data/id/lemma/90490
+19	effugiendi	effugio	VERB	_	VerbForm=Gdv|Voice=Pass|Case=Gen|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 08|TraditionalMood=Gerundivum	http://lila-erc.eu/data/id/lemma/100674
+20	periculi	periculum	NOUN	_	Case=Gen|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 08	http://lila-erc.eu/data/id/lemma/116930
+21	gratia	gratia	NOUN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 08	http://lila-erc.eu/data/id/lemma/104869
+22	insidiatum	insidior	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 08|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/108146
+23	Iovi	Juppiter	PROPN	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 08|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/10964
+24	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 08	_
+25	ut	ut	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 08	http://lila-erc.eu/data/id/lemma/130906
+26	eum	is	DET	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 08	http://lila-erc.eu/data/id/lemma/109083
+27	necaret	neco	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 08|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/113514
+28	;	;	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 08	_
+29	Iovem	Juppiter	PROPN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 09	http://lila-erc.eu/data/id/lemma/10964
+30	cognitis	cognosco	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Abl|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 09|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/94738
+31	insidiis	insidiae	NOUN	_	Case=Abl|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 09	http://lila-erc.eu/data/id/lemma/59778
+32	regnum	regnum	NOUN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 09	http://lila-erc.eu/data/id/lemma/121683
+33	sibi	se	PRON	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 09	http://lila-erc.eu/data/id/lemma/123932
+34	denuo	denuo(adv.)	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 09	http://lila-erc.eu/data/id/lemma/98659
+35	vindicasse	vindico	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 09	http://lila-erc.eu/data/id/lemma/130252
+36	ac	atque	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 09	http://lila-erc.eu/data/id/lemma/90490
+37	fugasse	fugo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 10	http://lila-erc.eu/data/id/lemma/103921
+38	Saturnum	Saturnus	PROPN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 10|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/20942
+39	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 10	_
+40	qui	qui	PRON	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 10	http://lila-erc.eu/data/id/lemma/121354
+41	cum	cum	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 10	http://lila-erc.eu/data/id/lemma/97202
+42	iactatus	jacto	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 10|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/106011
+43	esset	sum(auxiliaris)	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 10	http://lila-erc.eu/data/id/lemma/126689
+44	per	per	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 10	http://lila-erc.eu/data/id/lemma/116569
+45	omnes	omnis	DET	_	Case=Acc|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 10	http://lila-erc.eu/data/id/lemma/114954
+46	terras	terra	NOUN	_	Case=Acc|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 11	http://lila-erc.eu/data/id/lemma/127912
+47	persequentibus	persequens	ADJ	_	Case=Abl|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 11	http://lila-erc.eu/data/id/hypolemma/32840
+48	armatis	armatus	NOUN	_	Case=Abl|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 11|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/90061
+49	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 11	_
+50	quos	qui	PRON	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 11	http://lila-erc.eu/data/id/lemma/121354
+51	ad	ad	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 11	http://lila-erc.eu/data/id/lemma/87344
+52	eum	is	DET	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 11	http://lila-erc.eu/data/id/lemma/109083
+53	conprehendendum	comprehendo	VERB	_	VerbForm=Gdv|Voice=Pass|Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 12|TraditionalMood=Gerundivum	http://lila-erc.eu/data/id/lemma/95381
+54	vel	vel	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 12	http://lila-erc.eu/data/id/lemma/129695
+55	necandum	neco	VERB	_	VerbForm=Gdv|Voice=Pass|Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 12|TraditionalMood=Gerundivum	http://lila-erc.eu/data/id/lemma/113514
+56	Iuppiter	Juppiter	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 12	http://lila-erc.eu/data/id/lemma/10964
+57	miserat	mitto	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 12|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/112499
+58	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 12	_
+59	vix	vix	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 12	http://lila-erc.eu/data/id/lemma/130478
+60	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 12	http://lila-erc.eu/data/id/lemma/106748
+61	Italia	Italia	PROPN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 12	http://lila-erc.eu/data/id/lemma/10748
+62	locum	locus	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 13	http://lila-erc.eu/data/id/lemma/110019
+63	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 13	http://lila-erc.eu/data/id/lemma/106748
+64	quo	qui	PRON	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 13	http://lila-erc.eu/data/id/lemma/121354
+65	lateret	lateo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 13	http://lila-erc.eu/data/id/lemma/111102
+66	invenit	invenio	VERB	_	Mood=Ind|Voice=Act|Tense=Past|Aspect=Perf|Person=3|Number=Sing	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 13|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/108806
+67	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 13	_
+
+1	Consedisse	consido	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 14	http://lila-erc.eu/data/id/lemma/97533
+2	illi	ille	DET	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 14	http://lila-erc.eu/data/id/lemma/106221
+3	aquilam	aquila	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 14	http://lila-erc.eu/data/id/lemma/88507
+4	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 14	http://lila-erc.eu/data/id/lemma/106748
+5	capite	caput	NOUN	_	Case=Abl|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 14	http://lila-erc.eu/data/id/lemma/92796
+6	atque	atque	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 14	http://lila-erc.eu/data/id/lemma/90490
+7	ei	is	DET	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 14	http://lila-erc.eu/data/id/lemma/109083
+8	regnum	regnum	NOUN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 14	http://lila-erc.eu/data/id/lemma/121683
+9	portendisse	portendo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 15|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/118518
+10	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 755, V. 15	_
+
+1	Deinde	deinde	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 01	http://lila-erc.eu/data/id/lemma/98386
+2	Pan	Pan	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 01	http://lila-erc.eu/data/id/lemma/17425
+3	eum	is	DET	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 01	http://lila-erc.eu/data/id/lemma/109083
+4	deducit	deduco	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 01	http://lila-erc.eu/data/id/lemma/98210
+5	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 01	http://lila-erc.eu/data/id/lemma/106748
+6	montem	mons	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 01	http://lila-erc.eu/data/id/lemma/112727
+7	qui	qui	PRON	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 01	http://lila-erc.eu/data/id/lemma/121354
+8	vocatur	voco	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 01	http://lila-erc.eu/data/id/lemma/130729
+9	Caeli	Caelum/us	PROPN	_	Case=Gen|Number=Sing	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 01	http://lila-erc.eu/data/id/lemma/1902
+10	Stela	Stele	NOUN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/125622
+11	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 02	_
+
+1	Postquam	postquam	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 02	http://lila-erc.eu/data/id/lemma/120753
+2	eo	is	DET	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 02	http://lila-erc.eu/data/id/lemma/109083
+3	ascendit	ascendo	VERB	_	Mood=Ind|Voice=Act|Person=3|Number=Sing	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 02|TraditionalMood=Indicativus	http://lila-erc.eu/data/id/lemma/90185
+4	contemplatus	contemplor	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 02|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/96238
+5	est	sum	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 02	http://lila-erc.eu/data/id/lemma/126689
+6	late	latus,a,um	ADJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 02	http://lila-erc.eu/data/id/lemma/110053
+7	terras	terra	NOUN	_	Case=Acc|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/127912
+8	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 03	_
+9-10	ibique	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 03	_
+9	ibi	ibi	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/106053
+10	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 03	http://lila-erc.eu/data/id/lemma/131416
+11	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 03	http://lila-erc.eu/data/id/lemma/106748
+12	eo	is	DET	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 03	http://lila-erc.eu/data/id/lemma/109083
+13	monte	mons	NOUN	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 03	http://lila-erc.eu/data/id/lemma/112727
+14	aram	ara	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 03	http://lila-erc.eu/data/id/lemma/89737
+15	creat	creo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 03	http://lila-erc.eu/data/id/lemma/96898
+16	Caelo	Caelum/us	PROPN	_	Case=Dat|Number=Sing	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/1902
+17	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 03	_
+18-19	primusque	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 03	_
+18	primus	prae	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/72917
+19	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 03	http://lila-erc.eu/data/id/lemma/131416
+20	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 04	http://lila-erc.eu/data/id/lemma/106748
+21	ea	is	DET	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 04	http://lila-erc.eu/data/id/lemma/109083
+22	ara	ara	NOUN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 04	http://lila-erc.eu/data/id/lemma/89737
+23	Iuppiter	Juppiter	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 04	http://lila-erc.eu/data/id/lemma/10964
+24	sacrificavit	sacrifico	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 04|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/123094
+25	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 04	_
+
+1	In	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 04	http://lila-erc.eu/data/id/lemma/106748
+2	eo	is	DET	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 04	http://lila-erc.eu/data/id/lemma/109083
+3	loco	locus	NOUN	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 04	http://lila-erc.eu/data/id/lemma/110019
+4	suspexit	suspicio,ere	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 04	http://lila-erc.eu/data/id/lemma/127130
+5	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 04	http://lila-erc.eu/data/id/lemma/106748
+6	caelum	caelum/us	NOUN	_	Case=Acc|Number=Sing	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 05	http://lila-erc.eu/data/id/lemma/92231
+7	quod	qui	PRON	_	Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 05	http://lila-erc.eu/data/id/lemma/121354
+8	nunc	nunc	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 05	http://lila-erc.eu/data/id/lemma/113990
+9	nos	nos	PRON	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 05	http://lila-erc.eu/data/id/hypolemma/110487
+10	nominamus	nomino	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 05	http://lila-erc.eu/data/id/lemma/113810
+11-12	idque	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 05	_
+11	id	is	DET	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 05|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/109083
+12	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 05	http://lila-erc.eu/data/id/lemma/131416
+13	quod	qui	PRON	_	Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 05	http://lila-erc.eu/data/id/lemma/121354
+14	supra	supra	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 05	http://lila-erc.eu/data/id/lemma/127064
+15	mundum	mundus,i	ADJ	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 06	http://lila-erc.eu/data/id/lemma/113021
+16	erat	sum(verbum)	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 06|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/126689
+17	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 06	_
+18	quod	qui	PRON	_	Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 06	http://lila-erc.eu/data/id/lemma/121354
+19	aeter	aether	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 06	http://lila-erc.eu/data/id/lemma/87965
+20	vocabatur	voco	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 06|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/130729
+21	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 06	_
+22	de	de	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 06	http://lila-erc.eu/data/id/lemma/97932
+23	sui	suus	DET	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 06	http://lila-erc.eu/data/id/lemma/127165
+24	avi	avus	NOUN	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 06	http://lila-erc.eu/data/id/lemma/90862
+25	nomine	nomen	NOUN	_	Case=Abl|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 06	http://lila-erc.eu/data/id/lemma/113797
+26	caelo	caelum/us	NOUN	_	Case=Dat|Number=Sing	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 07	http://lila-erc.eu/data/id/lemma/92231
+27	nomen	nomen	NOUN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 07	http://lila-erc.eu/data/id/lemma/113797
+28	indidit	indo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 07|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/107406
+29	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 07	_
+30-31	idque	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 07	_
+30	id	is	DET	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 07|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/109083
+31	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 07	http://lila-erc.eu/data/id/lemma/131416
+32	Iuppiter	Juppiter	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 07	http://lila-erc.eu/data/id/lemma/10964
+33	quod	qui	PRON	_	Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 07	http://lila-erc.eu/data/id/lemma/121354
+34	aeter	aether	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 07	http://lila-erc.eu/data/id/lemma/87965
+35	vocatur	voco	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 07	http://lila-erc.eu/data/id/lemma/130729
+36	placans	placo	VERB	_	VerbForm=Part|Voice=Act|Tense=Pres|Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 08|TraditionalMood=Participium|TraditionalTense=Praesens	http://lila-erc.eu/data/id/lemma/118020
+37	primus	prae	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 08	http://lila-erc.eu/data/id/lemma/72917
+38	caelum	caelum	NOUN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 08	http://lila-erc.eu/data/id/lemma/92231
+39	nominavit	nomino	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 08|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/113810
+40	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 08	_
+41-42	eamque	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 08	_
+41	eam	is	DET	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 08|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/109083
+42	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 08	http://lila-erc.eu/data/id/lemma/131416
+43	hostiam	hostia	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 08	http://lila-erc.eu/data/id/lemma/105745
+44	quam	qui	PRON	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 09	http://lila-erc.eu/data/id/lemma/121354
+45	ibi	ibi	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 09	http://lila-erc.eu/data/id/lemma/106053
+46	sacrificavit	sacrifico	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 09	http://lila-erc.eu/data/id/lemma/123094
+47	totam	totus	_	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 09	http://lila-erc.eu/data/id/Lemma/128484
+48	adolevit	adoleo,lui,ultum	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 09|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/88892
+49	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 756, V. 09	_
+
+1	...	...	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 757, V. 01|SpaceAfter=No	_
+2	ubi	ubi	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 757, V. 01	http://lila-erc.eu/data/id/lemma/129639
+3	Iuppiter	Juppiter	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 757, V. 01	http://lila-erc.eu/data/id/lemma/10964
+4	Neptuno	Neptunus	PROPN	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 757, V. 01	http://lila-erc.eu/data/id/lemma/15642
+5	imperium	imperium	NOUN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 757, V. 01	http://lila-erc.eu/data/id/lemma/106532
+6	dat	do	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 757, V. 01	http://lila-erc.eu/data/id/lemma/99970
+7	maris	mare	NOUN	_	Case=Gen|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 757, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/111604
+8	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 757, V. 01	_
+9	ut	ut	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 757, V. 01	http://lila-erc.eu/data/id/lemma/130906
+10	insulis	insula	NOUN	_	Case=Abl|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 757, V. 01	http://lila-erc.eu/data/id/lemma/108308
+11	omnibus	omnis	DET	_	Case=Abl|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 757, V. 02	http://lila-erc.eu/data/id/lemma/114954
+12	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 757, V. 02	http://lila-erc.eu/data/id/lemma/101542
+13	quae	qui	PRON	_	Case=Nom|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 757, V. 02	http://lila-erc.eu/data/id/lemma/121354
+14	secundum	secundum	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 757, V. 02	http://lila-erc.eu/data/id/lemma/127508
+15	mare	mare	NOUN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 757, V. 02	http://lila-erc.eu/data/id/lemma/111604
+16	loca	locus	NOUN	_	Case=Nom|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 757, V. 02	http://lila-erc.eu/data/id/lemma/110019
+17	essent	sum(verbum)	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 757, V. 02	http://lila-erc.eu/data/id/lemma/126689
+18	omnibus	omnis	DET	_	Case=Abl|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 757, V. 02	http://lila-erc.eu/data/id/lemma/114954
+19	regnaret	regno	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 757, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/122541
+20	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 757, V. 03	_
+
+1	Ea	is	DET	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 01	http://lila-erc.eu/data/id/lemma/109083
+2	tempestate	tempestas	NOUN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 01	http://lila-erc.eu/data/id/lemma/127774
+3	Iuppiter	Juppiter	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 01	http://lila-erc.eu/data/id/lemma/10964
+4	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 01	http://lila-erc.eu/data/id/lemma/106748
+5	monte	mons	NOUN	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 01	http://lila-erc.eu/data/id/lemma/112727
+6	Olympo	Olympus	PROPN	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 01	http://lila-erc.eu/data/id/lemma/16543
+7	maximam	maximus	ADJ	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 01	http://lila-erc.eu/data/id/lemma/111753
+8	partem	pars	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 02	http://lila-erc.eu/data/id/lemma/116084
+9	vitae	vita	NOUN	_	Case=Gen|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 02	http://lila-erc.eu/data/id/lemma/130393
+10	colebat	colo,ere	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 02	http://lila-erc.eu/data/id/lemma/94916
+11	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 02	http://lila-erc.eu/data/id/lemma/101542
+12	eo	is	DET	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 02	http://lila-erc.eu/data/id/lemma/109083
+13	ad	ad	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 02	http://lila-erc.eu/data/id/lemma/87344
+14	eum	is	DET	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 02	http://lila-erc.eu/data/id/lemma/109083
+15	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 02	http://lila-erc.eu/data/id/lemma/106748
+16	ius	jus(justitia)	NOUN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 02	http://lila-erc.eu/data/id/lemma/109252
+17	veniebant	venio	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/129790
+18	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 02	_
+19	si	si	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 02	http://lila-erc.eu/data/id/lemma/124676
+20	quae	quis(infinitus)	PRON	_	Case=Nom|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 03	http://lila-erc.eu/data/id/lemma/121165
+21	res	res	NOUN	_	Case=Nom|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 03	http://lila-erc.eu/data/id/lemma/121868
+22	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 03	http://lila-erc.eu/data/id/lemma/106748
+23	controversia	controversia	NOUN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 03	http://lila-erc.eu/data/id/lemma/96372
+24	erant	sum(copula)	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/126689
+25	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 03	_
+
+1	Item	item	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 03	http://lila-erc.eu/data/id/lemma/109131
+2	si	si	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 03	http://lila-erc.eu/data/id/lemma/124676
+3	quis	quis(infinitus)	PRON	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 03	http://lila-erc.eu/data/id/lemma/121165
+4	quid	quis(infinitus)	PRON	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 03	http://lila-erc.eu/data/id/lemma/121165
+5	novi	novus	ADJ	_	Case=Gen|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 03	http://lila-erc.eu/data/id/lemma/113900
+6	invenerat	invenio	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 04|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/108806
+7	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 04	_
+8	quod	qui	PRON	_	Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 04	http://lila-erc.eu/data/id/lemma/121354
+9	ad	ad	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 04	http://lila-erc.eu/data/id/lemma/87344
+10	vitam	vita	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 04	http://lila-erc.eu/data/id/lemma/130393
+11	humanam	humanus	ADJ	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 04	http://lila-erc.eu/data/id/lemma/105765
+12	utile	utilis	ADJ	_	Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 04	http://lila-erc.eu/data/id/lemma/130917
+13	esset	sum(copula)	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 04|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/126689
+14	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 04	_
+15	eo	is	DET	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 04	http://lila-erc.eu/data/id/lemma/109083
+16	veniebant	venio	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 05	http://lila-erc.eu/data/id/lemma/129790
+17	atque	atque	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 05	http://lila-erc.eu/data/id/lemma/90490
+18	Iovi	Juppiter	PROPN	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 05	http://lila-erc.eu/data/id/lemma/10964
+19	ostendebant	ostendo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 05|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/115363
+20	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 758, V. 05	_
+
+1	Saturnum	Saturnus	PROPN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 01	http://lila-erc.eu/data/id/lemma/20942
+2	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 01	http://lila-erc.eu/data/id/lemma/101542
+3	Opem	Ops	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 01	http://lila-erc.eu/data/id/lemma/115146
+4-5	ceterosque	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 01	_
+4	ceteros	ceterus	DET	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/93624
+5	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 01	http://lila-erc.eu/data/id/lemma/131416
+6	tunc	tunc	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 01	http://lila-erc.eu/data/id/lemma/129223
+7	homines	homo	NOUN	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 01	http://lila-erc.eu/data/id/lemma/105624
+8	humanam	humanus	ADJ	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 01	http://lila-erc.eu/data/id/lemma/105765
+9	carnem	caro,rnis	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 02	http://lila-erc.eu/data/id/lemma/92897
+10	solitos	soleo	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 02|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/125051
+11	esitare	esitare	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/101526
+12	;	;	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 02	_
+13	verum	verus	ADJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 02	http://lila-erc.eu/data/id/lemma/129978
+14	primum	prae	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 02	http://lila-erc.eu/data/id/lemma/72917
+15	Iovem	Juppiter	PROPN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 02	http://lila-erc.eu/data/id/lemma/10964
+16	leges	lex	NOUN	_	Case=Acc|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 02	http://lila-erc.eu/data/id/lemma/110351
+17	hominibus	homo	NOUN	_	Case=Dat|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 03	http://lila-erc.eu/data/id/lemma/105624
+18-19	moresque	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 03	_
+18	mores	mos	NOUN	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/112831
+19	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 03	http://lila-erc.eu/data/id/lemma/131416
+20	condentem	condo	VERB	_	VerbForm=Part|Voice=Act|Tense=Pres|Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 03|TraditionalMood=Participium|TraditionalTense=Praesens	http://lila-erc.eu/data/id/lemma/95677
+21	edicto	edictus	ADJ	_	Case=Abl|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 03	http://lila-erc.eu/data/id/hypolemma/13576
+22	prohibuisse	prohibeo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/119765
+23	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 03	_
+24	ne	ne	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 03	http://lila-erc.eu/data/id/lemma/113491
+25	liceret	licet	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 03	http://lila-erc.eu/data/id/lemma/110432
+26	eo	is	DET	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 04	http://lila-erc.eu/data/id/lemma/109083
+27	cibo	cibus	NOUN	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 04	http://lila-erc.eu/data/id/lemma/93926
+28	vesci	vesci	PROPN	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 04|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/24944
+29	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 759, V. 04	_
+
+1	Nam	nam	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 01	http://lila-erc.eu/data/id/lemma/113344
+2	cum	cum	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 01	http://lila-erc.eu/data/id/lemma/97202
+3	terras	terra	NOUN	_	Case=Acc|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 01	http://lila-erc.eu/data/id/lemma/127912
+4	circumiret	circumeo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/94112
+5	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 01	_
+6	ut	ut	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 01	http://lila-erc.eu/data/id/lemma/130906
+7	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 01	http://lila-erc.eu/data/id/lemma/106748
+8	quamque	quisque	DET	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 01	http://lila-erc.eu/data/id/lemma/121320
+9	regionem	regio	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 01	http://lila-erc.eu/data/id/lemma/121675
+10	venerat	venio	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/129790
+11	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 02	_
+12	reges	rex	NOUN	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 02	http://lila-erc.eu/data/id/lemma/122013
+13-14	principesve	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 02	_
+13	principes	princeps	ADJ	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/119499
+14	ve	ve	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 02	http://lila-erc.eu/data/id/lemma/131456
+15	populorum	populus(cives)	NOUN	_	Case=Gen|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 02	http://lila-erc.eu/data/id/lemma/118463
+16	hospitio	hospitium	NOUN	_	Case=Abl|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 02	http://lila-erc.eu/data/id/lemma/105742
+17	sibi	se	PRON	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 02	http://lila-erc.eu/data/id/lemma/123932
+18	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 02	http://lila-erc.eu/data/id/lemma/101542
+19	amicitia	amicitia	NOUN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 03	http://lila-erc.eu/data/id/lemma/89461
+20	copulabat	copulo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 03	http://lila-erc.eu/data/id/lemma/96537
+21	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 03	http://lila-erc.eu/data/id/lemma/101542
+22	cum	cum	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 03	http://lila-erc.eu/data/id/lemma/97202
+23	a	a	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 03	http://lila-erc.eu/data/id/lemma/86824
+24	quoque	quisque	DET	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 03	http://lila-erc.eu/data/id/lemma/121320
+25	digrederetur	digredior	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 03	http://lila-erc.eu/data/id/lemma/99408
+26	iubebat	jubeo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 03	http://lila-erc.eu/data/id/lemma/109152
+27	sibi	se	PRON	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 04	http://lila-erc.eu/data/id/lemma/123932
+28	fanum	fanum	NOUN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 04	http://lila-erc.eu/data/id/lemma/102911
+29	creari	creo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 04	http://lila-erc.eu/data/id/lemma/96898
+30	hospitis	hospes	NOUN	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 04	http://lila-erc.eu/data/id/lemma/105736
+31	sui	suus	DET	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 04	http://lila-erc.eu/data/id/lemma/127165
+32	nomine	nomen	NOUN	_	Case=Abl|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 04|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/113797
+33	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 04	_
+34	quasi	quasi	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 04	http://lila-erc.eu/data/id/lemma/121112
+35	ut	ut	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 04	http://lila-erc.eu/data/id/lemma/130906
+36	posset	possum	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 04	http://lila-erc.eu/data/id/lemma/118569
+37	amicitiae	amicitia	NOUN	_	Case=Gen|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 05	http://lila-erc.eu/data/id/lemma/89461
+38	ac	atque	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 05	http://lila-erc.eu/data/id/lemma/90490
+39	foederis	foedus	ADJ	_	Case=Gen|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 05	http://lila-erc.eu/data/id/lemma/103557
+40	memoria	memoria	NOUN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 05	http://lila-erc.eu/data/id/lemma/112000
+41	conservari	conservare	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 05|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/96048
+42	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 05	_
+
+1	Sic	sic	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 05	http://lila-erc.eu/data/id/lemma/124690
+2	constituta	constituo	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Nom|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 05|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/96146
+3	sunt	sum(auxiliaris)	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 06	http://lila-erc.eu/data/id/lemma/126689
+4	templa	templum	NOUN	_	Case=Nom|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 06	http://lila-erc.eu/data/id/lemma/127783
+5	Iovi	Juppiter	PROPN	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 06	http://lila-erc.eu/data/id/lemma/10964
+6	Ataburio	Atabyrius	PROPN	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 06|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/25690
+7	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 06	_
+8	Iovi	Juppiter	PROPN	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 06	http://lila-erc.eu/data/id/lemma/10964
+9	Labruandio	Labrandeus	ADJ	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 06|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/11039
+10	;	;	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 06	_
+11	Ataburus	Atabyrius	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 06	http://lila-erc.eu/data/id/lemma/25690
+12	enim	enim	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 07	http://lila-erc.eu/data/id/lemma/101119
+13	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 07	http://lila-erc.eu/data/id/lemma/101542
+14	Labruandus	Labrandeus	ADJ	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 07	http://lila-erc.eu/data/id/lemma/11039
+15	hospites	hospes	NOUN	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 07	http://lila-erc.eu/data/id/lemma/105736
+16	eius	is	DET	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 07	http://lila-erc.eu/data/id/lemma/109083
+17	atque	atque	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 07	http://lila-erc.eu/data/id/lemma/90490
+18	adiutores	adjutor,oris	NOUN	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 07	http://lila-erc.eu/data/id/lemma/87502
+19	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 07	http://lila-erc.eu/data/id/lemma/106748
+20	bello	bellum	NOUN	_	Case=Abl|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 08	http://lila-erc.eu/data/id/lemma/91461
+21	fuerunt	sum(copula)	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 08|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/126689
+22	;	;	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 08	_
+23	item	item	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 08	http://lila-erc.eu/data/id/lemma/109131
+24	Iovi	Juppiter	PROPN	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 08	http://lila-erc.eu/data/id/lemma/10964
+25	Laprio	Labrandeus	ADJ	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 08|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/11039
+26	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 08	_
+27	Iovi	Juppiter	PROPN	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 08	http://lila-erc.eu/data/id/lemma/10964
+28	Molioni	Molio	PROPN	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 08|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/14823
+29	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 08	_
+30	Iovi	Juppiter	PROPN	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 08	http://lila-erc.eu/data/id/lemma/10964
+31	Casio	Casius	ADJ	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 09|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/2510
+32	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 09	_
+33	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 09	http://lila-erc.eu/data/id/lemma/101542
+34	quae	qui	PRON	_	Case=Nom|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 09	http://lila-erc.eu/data/id/lemma/121354
+35	sunt	sum	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 09	http://lila-erc.eu/data/id/lemma/126689
+36	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 09	http://lila-erc.eu/data/id/lemma/106748
+37	eundem	idem	DET	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 09	http://lila-erc.eu/data/id/lemma/109082
+38	modum	modus	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 09|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/112553
+39	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 09	_
+
+1	Quod	qui	PRON	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 09	http://lila-erc.eu/data/id/lemma/121354
+2	ille	ille	DET	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 09	http://lila-erc.eu/data/id/lemma/106221
+3	astutissime	astutus	ADJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 10	http://lila-erc.eu/data/id/lemma/90474
+4	excogitavit	excogito	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 10|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/101891
+5	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 10	_
+6	ut	ut	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 10	http://lila-erc.eu/data/id/lemma/130906
+7	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 10	http://lila-erc.eu/data/id/lemma/101542
+8	sibi	se	PRON	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 10	http://lila-erc.eu/data/id/lemma/123932
+9	honorem	honor	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 10	http://lila-erc.eu/data/id/lemma/105647
+10	divinum	divinus	ADJ	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 10	http://lila-erc.eu/data/id/lemma/99944
+11	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 10	http://lila-erc.eu/data/id/lemma/101542
+12	hospitibus	hospes	NOUN	_	Case=Dat|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 11	http://lila-erc.eu/data/id/lemma/105736
+13	suis	suus	DET	_	Case=Dat|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 11	http://lila-erc.eu/data/id/lemma/127165
+14	perpetuum	perpetuus	ADJ	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 11	http://lila-erc.eu/data/id/lemma/117208
+15	nomen	nomen	NOUN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 11	http://lila-erc.eu/data/id/lemma/113797
+16	adquireret	acquiro	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 11	http://lila-erc.eu/data/id/lemma/87264
+17	cum	cum	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 11	http://lila-erc.eu/data/id/lemma/97202
+18	religione	religio	NOUN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 11	http://lila-erc.eu/data/id/lemma/121713
+19	coniunctum	conjungo	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 12|SpaceAfter=No|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/95951
+20	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 12	_
+
+1	Gaudebant	gaudeo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 12	http://lila-erc.eu/data/id/lemma/104365
+2	ergo	ergo	PART	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 12	http://lila-erc.eu/data/id/lemma/101415
+3	illi	ille	DET	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 12	http://lila-erc.eu/data/id/lemma/106221
+4	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 12	http://lila-erc.eu/data/id/lemma/101542
+5	huic	hic	DET	_	Case=Dat|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 12	http://lila-erc.eu/data/id/lemma/105455
+6	imperio	imperium	NOUN	_	Case=Dat|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 12	http://lila-erc.eu/data/id/lemma/106532
+7	eius	is	DET	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 12	http://lila-erc.eu/data/id/lemma/109083
+8	libenter	libens	ADJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 13	http://lila-erc.eu/data/id/hypolemma/25590
+9	obsequebantur	obsequor	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 13	http://lila-erc.eu/data/id/lemma/114403
+10	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 13	http://lila-erc.eu/data/id/lemma/101542
+11	nominis	nomen	NOUN	_	Case=Gen|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 13	http://lila-erc.eu/data/id/lemma/113797
+12	sui	suus	DET	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 13	http://lila-erc.eu/data/id/lemma/127165
+13	gratia	gratia	NOUN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 13	http://lila-erc.eu/data/id/lemma/104869
+14	ritus	ritus	NOUN	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 13	http://lila-erc.eu/data/id/lemma/122119
+15	annuos	annuus	ADJ	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 13	http://lila-erc.eu/data/id/lemma/89132
+16	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 14	http://lila-erc.eu/data/id/lemma/101542
+17	festa	festus	ADJ	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 14	http://lila-erc.eu/data/id/lemma/103198
+18	celebrabant	celebro	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 14|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/93319
+19	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 14	_
+
+1	Simile	similis	ADJ	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 14	http://lila-erc.eu/data/id/lemma/124826
+2	quiddam	quidam	DET	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 14	http://lila-erc.eu/data/id/lemma/121313
+3	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 14	http://lila-erc.eu/data/id/lemma/106748
+4	Sicilia	Sicilia	PROPN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 14	http://lila-erc.eu/data/id/lemma/21553
+5	fecit	facio	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 14	http://lila-erc.eu/data/id/lemma/102758
+6	Aeneas	Aeneas	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 15|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/5675
+7	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 15	_
+8	cum	cum	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 15	http://lila-erc.eu/data/id/lemma/97202
+9	conditae	conditus(condo)	ADJ	_	Case=Dat|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 15	http://lila-erc.eu/data/id/hypolemma/8460
+10	urbi	urbs	NOUN	_	Case=Dat|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 15	http://lila-erc.eu/data/id/lemma/130822
+11	Acestae	Acesta	PROPN	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 15	http://lila-erc.eu/data/id/lemma/130
+12	hospitis	hospes	NOUN	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 15	http://lila-erc.eu/data/id/lemma/105736
+13	nomen	nomen	NOUN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 15	http://lila-erc.eu/data/id/lemma/113797
+14	inposuit	impono	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 16|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/106633
+15	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 16	_
+16	ut	ut	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 16	http://lila-erc.eu/data/id/lemma/130906
+17	eam	is	DET	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 16	http://lila-erc.eu/data/id/lemma/109083
+18	postmodum	postmodum	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 16	http://lila-erc.eu/data/id/lemma/118604
+19	laetus	laetus,a,um	ADJ	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 16	http://lila-erc.eu/data/id/lemma/109739
+20	ac	atque	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 16	http://lila-erc.eu/data/id/lemma/90490
+21	libens	libens	ADJ	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 16	http://lila-erc.eu/data/id/hypolemma/25590
+22	Acestes	Acestes	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 16	http://lila-erc.eu/data/id/lemma/146
+23	diligeret	diligo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 17|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/99463
+24	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 17	_
+25	augeret	augeo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 17|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/90673
+26	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 17	_
+27	ornaret	orno	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 17|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/115284
+28	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 17	_
+
+1	Hoc	hic	DET	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 17	http://lila-erc.eu/data/id/lemma/105455
+2	modo	modus	NOUN	_	Case=Abl|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 17	http://lila-erc.eu/data/id/lemma/112553
+3	religionem	religio	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 17	http://lila-erc.eu/data/id/lemma/121713
+4	cultus	cultus,us	NOUN	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 17	http://lila-erc.eu/data/id/lemma/97670
+5	sui	suus	DET	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 18	http://lila-erc.eu/data/id/lemma/127165
+6	per	per	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 18	http://lila-erc.eu/data/id/lemma/116569
+7	orbem	orbis	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 18	http://lila-erc.eu/data/id/lemma/115196
+8	terrarum	terra	NOUN	_	Case=Gen|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 18	http://lila-erc.eu/data/id/lemma/127912
+9	Iuppiter	iuppiter	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 18	http://lila-erc.eu/data/id/lemma/10964
+10	seminavit	semino	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 18	http://lila-erc.eu/data/id/lemma/124200
+11	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 18	http://lila-erc.eu/data/id/lemma/101542
+12	exemplum	exemplum	NOUN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 18	http://lila-erc.eu/data/id/lemma/101975
+13	ceteris	ceterus	DET	_	Case=Dat|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 19	http://lila-erc.eu/data/id/lemma/93624
+14	ad	ad	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 19	http://lila-erc.eu/data/id/lemma/87344
+15	imitandum	imito	VERB	_	VerbForm=Gdv|Voice=Pass|Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 19|TraditionalMood=Gerundivum	http://lila-erc.eu/data/id/lemma/106365
+16	dedit	do	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 19|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/99970
+17	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 760, V. 19	_
+
+1	Deinde	deinde	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 01	http://lila-erc.eu/data/id/lemma/98386
+2	Iuppiter	iuppiter	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 01	http://lila-erc.eu/data/id/lemma/10964
+3	postquam	postquam	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 01	http://lila-erc.eu/data/id/lemma/120753
+4	quinquies	quinque	NUM	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 01	http://lila-erc.eu/data/id/lemma/121223
+5	terras	terra	NOUN	_	Case=Acc|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 01	http://lila-erc.eu/data/id/lemma/127912
+6	circumivit	circumeo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 01	http://lila-erc.eu/data/id/lemma/94112
+7-8	omnibusque	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 02	_
+7	omnibus	omnis	DET	_	Case=Dat|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/114954
+8	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 02	http://lila-erc.eu/data/id/lemma/131416
+9	amicis	amicus	ADJ	_	Case=Dat|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 02	http://lila-erc.eu/data/id/lemma/87667
+10	atque	atque	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 02	http://lila-erc.eu/data/id/lemma/90490
+11	cognatis	cognatus	ADJ	_	Case=Dat|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 02	http://lila-erc.eu/data/id/lemma/94721
+12	suis	suus	DET	_	Case=Dat|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 02	http://lila-erc.eu/data/id/lemma/127165
+13	imperia	imperium	NOUN	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 02	http://lila-erc.eu/data/id/lemma/106532
+14	divisit	divido	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 02	http://lila-erc.eu/data/id/lemma/99932
+15-16	reliquitque	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 03	_
+15	reliquit	relinquo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/122569
+16	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 03	http://lila-erc.eu/data/id/lemma/131416
+17	hominibus	homo	NOUN	_	Case=Dat|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 03	http://lila-erc.eu/data/id/lemma/105624
+18	leges	lex	NOUN	_	Case=Acc|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/110351
+19	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 03	_
+20	mores	mos	NOUN	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 03	http://lila-erc.eu/data/id/lemma/112831
+21-22	frumentaque	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 03	_
+21	frumenta	frumentum	NOUN	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/104126
+22	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 03	http://lila-erc.eu/data/id/lemma/131416
+23	paravit	paro,are	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 03	http://lila-erc.eu/data/id/lemma/116061
+24-25	multaque	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 04	_
+24	multa	multus	DET	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 04|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/112998
+25	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 04	http://lila-erc.eu/data/id/lemma/131416
+26	alia	alius	DET	_	Case=Nom|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 04	http://lila-erc.eu/data/id/lemma/88481
+27	bona	bonus	ADJ	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 04	http://lila-erc.eu/data/id/lemma/91782
+28	fecit	facio	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 04|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/102758
+29	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 04	_
+30	inmortali	immortalis	ADJ	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 04	http://lila-erc.eu/data/id/lemma/106439
+31	gloria	gloria	NOUN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 04	http://lila-erc.eu/data/id/lemma/104703
+32-33	memoriaque	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 04	_
+32	memoria	memoria	NOUN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 04|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/112000
+33	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 04	http://lila-erc.eu/data/id/lemma/131416
+34	adfectus	afficio	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 05|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/88003
+35	sempiterna	sempiternus	ADJ	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 05	http://lila-erc.eu/data/id/lemma/124298
+36	monumenta	monumentum	NOUN	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 05	http://lila-erc.eu/data/id/lemma/112273
+37	suis	suus	DET	_	Case=Dat|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 05	http://lila-erc.eu/data/id/lemma/127165
+38	reliquit	relinquo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 05|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/122569
+39	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 05	_
+
+1	Aetate	aetas	NOUN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 05	http://lila-erc.eu/data/id/lemma/87955
+2	pessum	pessum	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 06	http://lila-erc.eu/data/id/lemma/117509
+3	acta	ago	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 06|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/88140
+4	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 06	http://lila-erc.eu/data/id/lemma/106748
+5	Creta	Creta	PROPN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 06	http://lila-erc.eu/data/id/lemma/4071
+6	vitam	vita	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 06	http://lila-erc.eu/data/id/lemma/130393
+7	commutavit	commuto	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 06	http://lila-erc.eu/data/id/lemma/95232
+8	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 06	http://lila-erc.eu/data/id/lemma/101542
+9	ad	ad	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 06	http://lila-erc.eu/data/id/lemma/87344
+10	deos	deus	NOUN	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 06	http://lila-erc.eu/data/id/lemma/99132
+11	abiit	abeo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 06	http://lila-erc.eu/data/id/lemma/86873
+12-13	eumque	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 07	_
+12	eum	is	DET	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 07|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/109083
+13	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 07	http://lila-erc.eu/data/id/lemma/131416
+14	Curetes	Curetes	PROPN	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 07	http://lila-erc.eu/data/id/lemma/4221
+15	filii	filius	ADJ	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 07	http://lila-erc.eu/data/id/lemma/52185
+16	sui	suus	DET	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 07	http://lila-erc.eu/data/id/lemma/127165
+17	curaverunt	curo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 07	http://lila-erc.eu/data/id/lemma/97341
+18-19	decoraveruntque	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 07	_
+18	decoraverunt	decoro	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 07|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/98126
+19	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 07	http://lila-erc.eu/data/id/lemma/131416
+20	eum	is	DET	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 08|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/109083
+21	;	;	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 08	_
+22	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 08	http://lila-erc.eu/data/id/lemma/101542
+23	sepulcrum	sepulcrum	NOUN	_	Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 08	http://lila-erc.eu/data/id/lemma/124443
+24	eius	is	DET	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 08	http://lila-erc.eu/data/id/lemma/109083
+25	est	sum	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 08	http://lila-erc.eu/data/id/lemma/126689
+26	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 08	http://lila-erc.eu/data/id/lemma/106748
+27	Creta	Creta	PROPN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 08	http://lila-erc.eu/data/id/lemma/4071
+28	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 08	http://lila-erc.eu/data/id/lemma/106748
+29	oppido	oppidum	NOUN	_	Case=Abl|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 08	http://lila-erc.eu/data/id/lemma/115116
+30	Gnosso	Gnosos	PROPN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 08	http://lila-erc.eu/data/id/lemma/8214
+31	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 09	http://lila-erc.eu/data/id/lemma/101542
+32	dicitur	dico	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 09	http://lila-erc.eu/data/id/lemma/99302
+33	Vesta	Vesta	PROPN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 09	http://lila-erc.eu/data/id/lemma/24969
+34	hanc	hic	DET	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 09	http://lila-erc.eu/data/id/lemma/105455
+35	urbem	urbs	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 09	http://lila-erc.eu/data/id/lemma/130822
+36	creavisse	creo	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 09|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/96898
+37	;	;	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 09	_
+38-39	inque	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 09	_
+38	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 09|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/106748
+39	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 09	http://lila-erc.eu/data/id/lemma/131416
+40	sepulcro	sepulcrum	NOUN	_	Case=Abl|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 09	http://lila-erc.eu/data/id/lemma/124443
+41	eius	is	DET	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 10	http://lila-erc.eu/data/id/lemma/109083
+42	est	sum	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 10	http://lila-erc.eu/data/id/lemma/126689
+43	inscriptum	inscribo	VERB	_	VerbForm=Part|Voice=Pass|Tense=Past|Aspect=Perf|Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 10|TraditionalMood=Participius|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/108087
+44	antiquis	antiquus	ADJ	_	Case=Abl|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 10	http://lila-erc.eu/data/id/lemma/87976
+45	litteris	littera	NOUN	_	Case=Abl|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 10	http://lila-erc.eu/data/id/lemma/110668
+46	Graecis	Graecia	PROPN	_	Case=Abl|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 10	http://lila-erc.eu/data/id/lemma/8321
+47	ZAN	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 10	_
+48	KPONOY	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 10|SpaceAfter=No	_
+49	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 10	_
+50	id	is	DET	_	Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 11	http://lila-erc.eu/data/id/lemma/109083
+51	est	sum	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 11	http://lila-erc.eu/data/id/lemma/126689
+52	Latine	Latinus,a,um	PROPN	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 11	http://lila-erc.eu/data/id/lemma/11461
+53	Iuppiter	iuppiter	PROPN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 11	http://lila-erc.eu/data/id/lemma/10964
+54	Saturni	Saturnus	PROPN	_	Case=Gen|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 11|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/20942
+55	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 761, V. 11	_
+
+1	Venus	Venus	PROPN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 01	http://lila-erc.eu/data/id/lemma/24845
+2	prima	prae	NOUN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 01	http://lila-erc.eu/data/id/lemma/72917
+3	artem	ars	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 01	http://lila-erc.eu/data/id/lemma/90089
+4	meretriciam	meretricius	ADJ	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 01	http://lila-erc.eu/data/id/lemma/112113
+5	instituit	instituo	VERB	_	Mood=Ind|Voice=Act|Tense=Past|Aspect=Perf|Person=3|Number=Sing	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 01|TraditionalMood=Indicativus|TraditionalTense=Perfectum	http://lila-erc.eu/data/id/lemma/108268
+6-7	auctorque	_	_	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 01	_
+6	auctor	auctor	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/90615
+7	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 01	http://lila-erc.eu/data/id/lemma/131416
+8	mulieribus	mulier	NOUN	_	Case=Dat|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 02	http://lila-erc.eu/data/id/lemma/112890
+9	in	in	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 02	http://lila-erc.eu/data/id/lemma/106748
+10	Cypro	Cyprus	PROPN	_	Case=Abl|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 02	http://lila-erc.eu/data/id/lemma/4357
+11	fuit	sum(copula)	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 02	http://lila-erc.eu/data/id/lemma/126689
+12	uti	ut	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 02	http://lila-erc.eu/data/id/lemma/130906
+13	vulgo	vulgus	NOUN	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 02	http://lila-erc.eu/data/id/lemma/130956
+14	corpore	corpus	NOUN	_	Case=Abl|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 02	http://lila-erc.eu/data/id/lemma/96667
+15	quaestum	quaestus	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 02	http://lila-erc.eu/data/id/lemma/121066
+16	facerent	facio	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/102758
+17	;	;	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 02	_
+18	quod	qui	PRON	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 03	http://lila-erc.eu/data/id/lemma/121354
+19	idcirco	idcirco	ADV	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 03	http://lila-erc.eu/data/id/lemma/106080
+20	imperavit	impero	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/106539
+21	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 03	_
+22	ne	ne	SCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 03	http://lila-erc.eu/data/id/lemma/113491
+23	sola	solus,a,um	DET	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 03	http://lila-erc.eu/data/id/lemma/125109
+24	praeter	praeter	ADP	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 03	http://lila-erc.eu/data/id/lemma/119286
+25	alias	alius	DET	_	Case=Acc|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 03	http://lila-erc.eu/data/id/lemma/88481
+26	mulieres	mulier	NOUN	_	Case=Acc|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 03	http://lila-erc.eu/data/id/lemma/112890
+27	inpudica	impudicus	ADJ	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 04	http://lila-erc.eu/data/id/lemma/106718
+28	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 04	http://lila-erc.eu/data/id/lemma/101542
+29	virorum	vir	NOUN	_	Case=Gen|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 04	http://lila-erc.eu/data/id/lemma/130300
+30	adpetens	appetens	ADJ	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 04	http://lila-erc.eu/data/id/hypolemma/2854
+31	videretur	video	VERB	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 04|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/130163
+32	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 762, V. 04	_
+
+1	gluma	gluma	NOUN	_	Gender=Fem	_	_	_	CitationHierarchy=Euhemerus sive Sacra Historia, Fr. 763, V. 01	http://lila-erc.eu/data/id/lemma/104725

@@ -1,0 +1,47 @@
+# docId=comoediarumFragmenta
+# docTitle=Comoediarum Fragmenta
+# contributor=Federica Iurescia, Giovanni Moretti, Paolo Ruffolo, Marco Passarotti
+# corpusRef=http://lila-erc.eu/data/corpora/QuintusEnniusOperaOmnia/id/corpus
+# docAuthor=http://lila-erc.eu/data/authors/id/a174
+# description=Fragments from the following comedies: Caupuncula, Pancratiastes 
+
+
+1	huic	hic	DET	_	Case=Dat|Number=Sing	_	_	_	CitationHierarchy=Caupuncula, Fr. 647, V. 01	http://lila-erc.eu/data/id/lemma/105455
+2	est	sum	VERB	_	_	_	_	_	CitationHierarchy=Caupuncula, Fr. 647, V. 01	http://lila-erc.eu/data/id/lemma/126689
+3	animus	animus	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Caupuncula, Fr. 647, V. 01	http://lila-erc.eu/data/id/lemma/89094
+4	propitiabilis	propitiabilis	ADJ	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Caupuncula, Fr. 647, V. 01	http://lila-erc.eu/data/id/lemma/119960
+
+1	Quo	quis(infinitus)	PRON	_	_	_	_	_	CitationHierarchy=Pancratiastes, Fr. 648, V. 01	http://lila-erc.eu/data/id/lemma/121165
+2	nunc	nunc	ADV	_	_	_	_	_	CitationHierarchy=Pancratiastes, Fr. 648, V. 01	http://lila-erc.eu/data/id/lemma/113990
+3	me	ego	PRON	_	Case=Acc|Number=Sing	_	_	_	CitationHierarchy=Pancratiastes, Fr. 648, V. 01	http://lila-erc.eu/data/id/lemma/100712
+4	ducis	duco	VERB	_	_	_	_	_	CitationHierarchy=Pancratiastes, Fr. 648, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/100196
+5	?	?	PUNCT	_	_	_	_	_	CitationHierarchy=Pancratiastes, Fr. 648, V. 01	_
+
+1	Ubi	ubi	ADV	_	_	_	_	_	CitationHierarchy=Pancratiastes, Fr. 648, V. 01	http://lila-erc.eu/data/id/lemma/129639
+2	molarum	mola	NOUN	_	Case=Gen|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Pancratiastes, Fr. 648, V. 01	http://lila-erc.eu/data/id/lemma/112566
+3	strepitum	strepitus,us	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Pancratiastes, Fr. 648, V. 01	http://lila-erc.eu/data/id/lemma/127474
+4	audibis	audio	VERB	_	_	_	_	_	CitationHierarchy=Pancratiastes, Fr. 648, V. 01	http://lila-erc.eu/data/id/lemma/90641
+5	maximum	maximus	ADJ	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Pancratiastes, Fr. 648, V. 01	http://lila-erc.eu/data/id/lemma/111753
+
+1	Quis	quis(interrogans)	PRON	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Pancratiastes, Fr. 649, V. 01	http://lila-erc.eu/data/id/lemma/121165
+2	est	sum	VERB	_	_	_	_	_	CitationHierarchy=Pancratiastes, Fr. 649, V. 01	http://lila-erc.eu/data/id/lemma/126689
+3	qui	qui	PRON	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Pancratiastes, Fr. 649, V. 01	http://lila-erc.eu/data/id/lemma/121354
+4	nostris	noster	DET	_	Case=Dat|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Pancratiastes, Fr. 649, V. 01	http://lila-erc.eu/data/id/lemma/113882
+5	foribus	foris	NOUN	_	Case=Dat|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Pancratiastes, Fr. 649, V. 01	http://lila-erc.eu/data/id/lemma/103628
+6	tam	tam	ADV	_	_	_	_	_	CitationHierarchy=Pancratiastes, Fr. 649, V. 01	http://lila-erc.eu/data/id/lemma/127600
+7	proterviter	protervus	ADJ	_	_	_	_	_	CitationHierarchy=Pancratiastes, Fr. 649, V. 01	http://lila-erc.eu/data/id/lemma/120145
+8	<facit	facio	VERB	_	_	_	_	_	CitationHierarchy=Pancratiastes, Fr. 649, V. 02	http://lila-erc.eu/data/id/lemma/102758
+9	iniuriam>	injuria	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Pancratiastes, Fr. 649, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/107914
+10	?	?	PUNCT	_	_	_	_	_	CitationHierarchy=Pancratiastes, Fr. 649, V. 02	_
+
+1	cum	cum	SCONJ	_	_	_	_	_	CitationHierarchy=Pancratiastes, Fr. 650, V. 01	http://lila-erc.eu/data/id/lemma/97202
+2	desubito	desubitus	ADV	_	_	_	_	_	CitationHierarchy=Pancratiastes, Fr. 650, V. 01	http://lila-erc.eu/data/id/lemma/98979
+3	me	ego	PRON	_	Case=Acc|Number=Sing	_	_	_	CitationHierarchy=Pancratiastes, Fr. 650, V. 01	http://lila-erc.eu/data/id/lemma/100712
+4	orat	oro	VERB	_	_	_	_	_	CitationHierarchy=Pancratiastes, Fr. 650, V. 01	http://lila-erc.eu/data/id/lemma/115286
+5	mulier	mulier	NOUN	_	Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Pancratiastes, Fr. 650, V. 01	http://lila-erc.eu/data/id/lemma/112890
+6-7	lacrimansque	_	_	_	_	_	_	_	CitationHierarchy=Pancratiastes, Fr. 650, V. 01	_
+6	lacrimans	lacrimo	VERB	_	VerbForm=Part|Voice=Act|Tense=Pres|Case=Nom|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Pancratiastes, Fr. 650, V. 01|SpaceAfter=No|TraditionalMood=Participium|TraditionalTense=Praesens	http://lila-erc.eu/data/id/lemma/109675
+7	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Pancratiastes, Fr. 650, V. 01	http://lila-erc.eu/data/id/lemma/131416
+8	ad	ad	ADP	_	_	_	_	_	CitationHierarchy=Pancratiastes, Fr. 650, V. 01	http://lila-erc.eu/data/id/lemma/87344
+9	genua	genu	NOUN	_	Case=Acc|Number=Plur|Gender=Neut	_	_	_	CitationHierarchy=Pancratiastes, Fr. 650, V. 01	http://lila-erc.eu/data/id/lemma/104500
+10	accidit	accido(cado)	VERB	_	Mood=Ind|Voice=Act|Tense=Pres|Person=3|Number=Sing	_	_	_	CitationHierarchy=Pancratiastes, Fr. 650, V. 01|TraditionalMood=Indicativus|TraditionalTense=Praesens	http://lila-erc.eu/data/id/lemma/87112
