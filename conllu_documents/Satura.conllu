@@ -470,7 +470,7 @@
 34	:	:	PUNCT	_	_	_	_	_	CitationHierarchy=Fr. 710, V. 30	_
 35	"	"	PUNCT	_	_	_	_	_	CitationHierarchy=Fr. 710, V. 30|SpaceAfter=No	_
 36	Vos	vos	PRON	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Fr. 710, V. 30	http://lila-erc.eu/data/id/hypolemma/110488
-37	modo	modo	NOUN	_	_	_	_	_	CitationHierarchy=Fr. 710, V. 30|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/65981
+37	modo	modo	NOUN	_	_	_	_	_	CitationHierarchy=Fr. 710, V. 30|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/112553
 38	"	"	PUNCT	_	_	_	_	_	CitationHierarchy=Fr. 710, V. 30	_
 39	inquit	inquio	VERB	_	Mood=Ind|Voice=Act|Tense=Pres|Person=3|Number=Sing	_	_	_	CitationHierarchy=Fr. 710, V. 31|TraditionalMood=Indicativus|TraditionalTense=Praesens	http://lila-erc.eu/data/id/lemma/108033
 40	"	"	PUNCT	_	_	_	_	_	CitationHierarchy=Fr. 710, V. 31|SpaceAfter=No	_
