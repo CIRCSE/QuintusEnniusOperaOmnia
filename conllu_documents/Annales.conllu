@@ -636,7 +636,7 @@
 5	quom	cum	SCONJ	_	_	_	_	_	CitationHierarchy=Liber 1, Fr. 051, V. 09	http://lila-erc.eu/data/id/lemma/97202
 6	mittere	mittere	VERB	_	_	_	_	_	CitationHierarchy=Liber 1, Fr. 051, V. 09	http://lila-erc.eu/data/id/lemma/112499
 7	signum	signum	NOUN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Liber 1, Fr. 051, V. 09	http://lila-erc.eu/data/id/lemma/124767
-8	volt	volo,velle	VERB	_	_	_	_	_	CitationHierarchy=Liber 1, Fr. 051, V. 10|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/130746
+8	volt	volo,velle	VERB	_	_	_	_	_	CitationHierarchy=Liber 1, Fr. 051, V. 10|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/130745
 9	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Liber 1, Fr. 051, V. 10	_
 10	omnes	omnis	DET	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Liber 1, Fr. 051, V. 10	http://lila-erc.eu/data/id/lemma/114954
 11	avidi	avidus	ADJ	_	Case=Nom|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Liber 1, Fr. 051, V. 10	http://lila-erc.eu/data/id/lemma/90972
@@ -1555,7 +1555,7 @@
 25-26	vosne	_	_	_	_	_	_	_	CitationHierarchy=Liber 6, Fr. 124, V. 04	_
 25	vos	vos	PRON	_	Case=Acc|Number=Plur|Gender=Masc	_	_	_	CitationHierarchy=Liber 6, Fr. 124, V. 04|SpaceAfter=No	http://lila-erc.eu/data/id/hypolemma/110488
 26	ne	ne	SCONJ	_	_	_	_	_	CitationHierarchy=Liber 6, Fr. 124, V. 04	http://lila-erc.eu/data/id/lemma/113491
-27	velit	volo,velle	VERB	_	_	_	_	_	CitationHierarchy=Liber 6, Fr. 124, V. 04	http://lila-erc.eu/data/id/lemma/130746
+27	velit	volo,velle	VERB	_	_	_	_	_	CitationHierarchy=Liber 6, Fr. 124, V. 04	http://lila-erc.eu/data/id/lemma/130745
 28	an	an	CCONJ	_	_	_	_	_	CitationHierarchy=Liber 6, Fr. 124, V. 04	http://lila-erc.eu/data/id/lemma/88828
 29	me	ego	PRON	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Liber 6, Fr. 124, V. 04	http://lila-erc.eu/data/id/lemma/100712
 30	regnare	regno	VERB	_	_	_	_	_	CitationHierarchy=Liber 6, Fr. 124, V. 04	http://lila-erc.eu/data/id/lemma/122541
@@ -2062,7 +2062,7 @@
 54	evomeret	evomo	VERB	_	_	_	_	_	CitationHierarchy=Liber 8, Fr. 164, V. 08	http://lila-erc.eu/data/id/lemma/101671
 55	si	si	SCONJ	_	_	_	_	_	CitationHierarchy=Liber 8, Fr. 164, V. 08	http://lila-erc.eu/data/id/lemma/124676
 56	qui	quis(infinitus)	PRON	_	_	_	_	_	CitationHierarchy=Liber 8, Fr. 164, V. 08	http://lila-erc.eu/data/id/lemma/121165
-57	vellet	volo,velle	VERB	_	_	_	_	_	CitationHierarchy=Liber 8, Fr. 164, V. 08	http://lila-erc.eu/data/id/lemma/130746
+57	vellet	volo,velle	VERB	_	_	_	_	_	CitationHierarchy=Liber 8, Fr. 164, V. 08	http://lila-erc.eu/data/id/lemma/130745
 58-59	tutoque	_	_	_	_	_	_	_	CitationHierarchy=Liber 8, Fr. 164, V. 08	_
 58	tuto	tutus	ADJ	_	Case=Dat|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Liber 8, Fr. 164, V. 08|SpaceAfter=No	http://lila-erc.eu/data/id/hypolemma/45533
 59	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Liber 8, Fr. 164, V. 08	http://lila-erc.eu/data/id/lemma/131416
@@ -3572,7 +3572,7 @@
 10	Latium	Latium	PROPN	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Ex incertis Annalium libris incertisque Operibus, Fr. 307, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/11464
 11	que	que	CCONJ	_	_	_	_	_	CitationHierarchy=Ex incertis Annalium libris incertisque Operibus, Fr. 307, V. 02	http://lila-erc.eu/data/id/lemma/131416
 12	augescere	augesco	VERB	_	_	_	_	_	CitationHierarchy=Ex incertis Annalium libris incertisque Operibus, Fr. 307, V. 02	http://lila-erc.eu/data/id/lemma/90971
-13	vultis	volo,velle	VERB	_	_	_	_	_	CitationHierarchy=Ex incertis Annalium libris incertisque Operibus, Fr. 307, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/130746
+13	vultis	volo,velle	VERB	_	_	_	_	_	CitationHierarchy=Ex incertis Annalium libris incertisque Operibus, Fr. 307, V. 02|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/130745
 14	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Ex incertis Annalium libris incertisque Operibus, Fr. 307, V. 02	_
 
 1	"	"	PUNCT	_	_	_	_	_	CitationHierarchy=Ex incertis Annalium libris incertisque Operibus, Fr. 308, V. 01|SpaceAfter=No	_
@@ -4208,7 +4208,7 @@
 3	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Ex incertis Annalium libris incertisque Operibus, Fr. 384, V. 01	_
 4-5	sulti<s>	_	_	_	_	_	_	_	CitationHierarchy=Ex incertis Annalium libris incertisque Operibus, Fr. 384, V. 01|SpaceAfter=No	_
 4	s	si	SCONJ	_	_	_	_	_	CitationHierarchy=Ex incertis Annalium libris incertisque Operibus, Fr. 384, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/124676
-5	ulti<s>	volo,velle	VERB	_	_	_	_	_	CitationHierarchy=Ex incertis Annalium libris incertisque Operibus, Fr. 384, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/130746
+5	ulti<s>	volo,velle	VERB	_	_	_	_	_	CitationHierarchy=Ex incertis Annalium libris incertisque Operibus, Fr. 384, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/130745
 6	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Ex incertis Annalium libris incertisque Operibus, Fr. 384, V. 01	_
 7	genas	gena	NOUN	_	Case=Acc|Number=Plur|Gender=Fem	_	_	_	CitationHierarchy=Ex incertis Annalium libris incertisque Operibus, Fr. 384, V. 01	http://lila-erc.eu/data/id/lemma/104436
 8	et	et	CCONJ	_	_	_	_	_	CitationHierarchy=Ex incertis Annalium libris incertisque Operibus, Fr. 384, V. 01	http://lila-erc.eu/data/id/lemma/101542
@@ -4276,7 +4276,7 @@
 1	qua	qui	PRON	_	_	_	_	_	CitationHierarchy=Ex incertis Annalium libris incertisque Operibus, Fr. 393, V. 01	http://lila-erc.eu/data/id/lemma/121354
 2	murum	murus	NOUN	_	Case=Acc|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Ex incertis Annalium libris incertisque Operibus, Fr. 393, V. 01	http://lila-erc.eu/data/id/lemma/113105
 3	fieri	facio	VERB	_	_	_	_	_	CitationHierarchy=Ex incertis Annalium libris incertisque Operibus, Fr. 393, V. 01	http://lila-erc.eu/data/id/lemma/102758
-4	voluit	volo,velle	VERB	_	_	_	_	_	CitationHierarchy=Ex incertis Annalium libris incertisque Operibus, Fr. 393, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/130746
+4	voluit	volo,velle	VERB	_	_	_	_	_	CitationHierarchy=Ex incertis Annalium libris incertisque Operibus, Fr. 393, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/130745
 5	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Ex incertis Annalium libris incertisque Operibus, Fr. 393, V. 01	_
 6	urgemur	urgeo	VERB	_	_	_	_	_	CitationHierarchy=Ex incertis Annalium libris incertisque Operibus, Fr. 393, V. 01	http://lila-erc.eu/data/id/lemma/130831
 7	in	in	ADP	_	_	_	_	_	CitationHierarchy=Ex incertis Annalium libris incertisque Operibus, Fr. 393, V. 01	http://lila-erc.eu/data/id/lemma/106748

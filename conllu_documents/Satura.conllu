@@ -55,7 +55,7 @@
 2	is	is	DET	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Fr. 705, V. 01	http://lila-erc.eu/data/id/lemma/109083
 3	non	non	ADV	_	_	_	_	_	CitationHierarchy=Fr. 705, V. 01	http://lila-erc.eu/data/id/lemma/114108
 4	bene	bonus	ADJ	_	_	_	_	_	CitationHierarchy=Fr. 705, V. 01	http://lila-erc.eu/data/id/lemma/91782
-5	vult	volo,velle	VERB	_	_	_	_	_	CitationHierarchy=Fr. 705, V. 01	http://lila-erc.eu/data/id/lemma/130746
+5	vult	volo,velle	VERB	_	_	_	_	_	CitationHierarchy=Fr. 705, V. 01	http://lila-erc.eu/data/id/lemma/130745
 6	tibi	tu	PRON	_	Case=Dat|Number=Sing	_	_	_	CitationHierarchy=Fr. 705, V. 01|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/129131
 7	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Fr. 705, V. 01	_
 8	qui	qui	PRON	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Fr. 705, V. 01	http://lila-erc.eu/data/id/lemma/121354

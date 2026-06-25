@@ -1927,7 +1927,7 @@
 37	animus	animus	NOUN	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Cothurnatae, Iphigenia, Fr. 572, V. 05	http://lila-erc.eu/data/id/lemma/89094
 38	nescit	nescio	VERB	_	Mood=Ind|Voice=Act|Tense=Pres|Person=3|Number=Sing	_	_	_	CitationHierarchy=Cothurnatae, Iphigenia, Fr. 572, V. 05|TraditionalMood=Indicativus|TraditionalTense=Praesens	http://lila-erc.eu/data/id/lemma/113625
 39	quid	quis(interrogans)	PRON	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Cothurnatae, Iphigenia, Fr. 572, V. 05	http://lila-erc.eu/data/id/lemma/121165
-40	velit	volo,velle	VERB	_	_	_	_	_	CitationHierarchy=Cothurnatae, Iphigenia, Fr. 572, V. 05|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/130746
+40	velit	volo,velle	VERB	_	_	_	_	_	CitationHierarchy=Cothurnatae, Iphigenia, Fr. 572, V. 05|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/130745
 41	.	.	PUNCT	_	_	_	_	_	CitationHierarchy=Cothurnatae, Iphigenia, Fr. 572, V. 05	_
 
 1	Hoc	hic	DET	_	Case=Nom|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Cothurnatae, Iphigenia, Fr. 572, V. 06	http://lila-erc.eu/data/id/lemma/105455
@@ -2184,9 +2184,9 @@
 12	?	?	PUNCT	_	_	_	_	_	CitationHierarchy=Cothurnatae, Medea, Fr. 582, V. 03	_
 
 1	Qui	qui	PRON	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Cothurnatae, Medea, Fr. 582, V. 03	http://lila-erc.eu/data/id/lemma/121354
-2	volt	volo,velle	VERB	_	_	_	_	_	CitationHierarchy=Cothurnatae, Medea, Fr. 582, V. 03	http://lila-erc.eu/data/id/lemma/130746
+2	volt	volo,velle	VERB	_	_	_	_	_	CitationHierarchy=Cothurnatae, Medea, Fr. 582, V. 03	http://lila-erc.eu/data/id/lemma/130745
 3	quod	qui	PRON	_	Case=Acc|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Cothurnatae, Medea, Fr. 582, V. 03	http://lila-erc.eu/data/id/lemma/121354
-4	volt	volo,velle	VERB	_	_	_	_	_	CitationHierarchy=Cothurnatae, Medea, Fr. 582, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/130746
+4	volt	volo,velle	VERB	_	_	_	_	_	CitationHierarchy=Cothurnatae, Medea, Fr. 582, V. 03|SpaceAfter=No	http://lila-erc.eu/data/id/lemma/130745
 5	,	,	PUNCT	_	_	_	_	_	CitationHierarchy=Cothurnatae, Medea, Fr. 582, V. 03	_
 6	ita	ita	ADV	_	_	_	_	_	CitationHierarchy=Cothurnatae, Medea, Fr. 582, V. 03	http://lila-erc.eu/data/id/lemma/109126
 7	dat	do	VERB	_	_	_	_	_	CitationHierarchy=Cothurnatae, Medea, Fr. 582, V. 03	http://lila-erc.eu/data/id/lemma/99970

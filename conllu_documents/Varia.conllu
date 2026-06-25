@@ -211,7 +211,7 @@
 1	Alius	alius	DET	_	Case=Nom|Number=Sing|Gender=Masc	_	_	_	CitationHierarchy=Sota, Fr. 736, V. 01	http://lila-erc.eu/data/id/lemma/88481
 2	in	in	ADP	_	_	_	_	_	CitationHierarchy=Sota, Fr. 736, V. 01	http://lila-erc.eu/data/id/lemma/106748
 3	mari	mare	NOUN	_	Case=Abl|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Sota, Fr. 736, V. 01	http://lila-erc.eu/data/id/lemma/111604
-4	vult	volo,velle	VERB	_	_	_	_	_	CitationHierarchy=Sota, Fr. 736, V. 01	http://lila-erc.eu/data/id/lemma/130746
+4	vult	volo,velle	VERB	_	_	_	_	_	CitationHierarchy=Sota, Fr. 736, V. 01	http://lila-erc.eu/data/id/lemma/130745
 5	magno	magnus	ADJ	_	Case=Abl|Number=Sing|Gender=Neut	_	_	_	CitationHierarchy=Sota, Fr. 736, V. 01	http://lila-erc.eu/data/id/lemma/111319
 6	tenere	tenere	_	_	_	_	_	_	CitationHierarchy=Sota, Fr. 736, V. 01	http://lila-erc.eu/data/id/Lemma/127822
 7	tonsam	tonsa	NOUN	_	Case=Acc|Number=Sing|Gender=Fem	_	_	_	CitationHierarchy=Sota, Fr. 736, V. 01	http://lila-erc.eu/data/id/lemma/129445
